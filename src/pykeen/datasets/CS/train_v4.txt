@@ -1,0 +1,2528 @@
+Q7397	P279_subclass_of	Q47461344
+Q7397	P279_subclass_of	Q12894677
+Q7397	P279_subclass_of	Q2424752
+Q7397	P461_opposite_of	Q3966
+Q7397	P910_topic's_main_category	Q4105269
+Q7397	P2354_has_list	Q25344612
+Q7397	P2959_permanent_duplicated_item	Q12715472
+Q7397	P1687_Wikidata_property	P2749
+Q7397	P1963_properties_for_this_type	P571
+Q7397	P1963_properties_for_this_type	P275
+Q7397	P1963_properties_for_this_type	P348
+Q7397	P1963_properties_for_this_type	P1324
+Q7397	P1963_properties_for_this_type	P856
+Q7397	P1963_properties_for_this_type	P2078
+Q7397	P1963_properties_for_this_type	P408
+Q7397	P1963_properties_for_this_type	P1547
+Q7397	P1963_properties_for_this_type	P1414
+Q7397	P1963_properties_for_this_type	P306
+Q7397	P1963_properties_for_this_type	P400
+Q7397	P1963_properties_for_this_type	P479
+Q7397	P1963_properties_for_this_type	P943
+Q7397	P1963_properties_for_this_type	P1032
+Q7397	P1963_properties_for_this_type	P3418
+Q7397	P1963_properties_for_this_type	P3442
+Q7397	P1963_properties_for_this_type	P2749
+Q7397	P1963_properties_for_this_type	P2537
+Q7397	P1963_properties_for_this_type	P277
+Q7397	P1963_properties_for_this_type	P407
+Q7397	P1963_properties_for_this_type	P154
+Q7397	P1963_properties_for_this_type	P18
+Q7397	P1963_properties_for_this_type	P1482
+Q7397	P1963_properties_for_this_type	P3499
+Q7397	P1963_properties_for_this_type	P3463
+Q7397	P1963_properties_for_this_type	P5196
+Q7397	P1963_properties_for_this_type	P11197
+Q7397	P1963_properties_for_this_type	P11201
+Q7397	P5008_on_focus_list_of_Wikimedia_project	Q5460604
+Q7397	P5008_on_focus_list_of_Wikimedia_project	Q6173448
+Q7397	P5125_Wikimedia_outline	Q18922260
+Q7397	P2184_history_of_topic	Q17155144
+Q7397	P5869_model_item	Q94
+Q7397	P5869_model_item	Q319417
+Q7397	P5869_model_item	Q171477
+Q7397	P5869_model_item	Q1343860
+Q7397	P6104_maintained_by_WikiProject	Q15659621
+Q7397	P361_part_of	Q68
+Q7397	P527_has_part(s)	Q40056
+Q7397	P527_has_part(s)	Q494756
+Q7397	P1552_has_quality	Q1412670
+Q7397	P1552_has_quality	Q128751
+Q7397	P1552_has_quality	Q4485156
+Q7397	P1552_has_quality	Q846636
+Q7397	P1552_has_quality	Q1307327
+Q7397	P2579_studied_by	Q80993
+Q166142	P279_subclass_of	Q7397
+Q166142	P910_topic's_main_category	Q7032352
+Q166142	P1963_properties_for_this_type	P400
+Q166142	P1963_properties_for_this_type	P747
+Q166142	P1963_properties_for_this_type	P101
+Q166142	P1963_properties_for_this_type	P306
+Q166142	P1963_properties_for_this_type	P178
+Q166142	P1963_properties_for_this_type	P348
+Q166142	P1963_properties_for_this_type	P275
+Q166142	P1963_properties_for_this_type	P737
+Q166142	P1963_properties_for_this_type	P138
+Q166142	P1963_properties_for_this_type	P1324
+Q166142	P1963_properties_for_this_type	P1581
+Q166142	P1963_properties_for_this_type	P2910
+Q166142	P1963_properties_for_this_type	P1482
+Q166142	P1963_properties_for_this_type	P1401
+Q166142	P1963_properties_for_this_type	P1414
+Q166142	P1963_properties_for_this_type	P1068
+Q166142	P31_instance_of	Q17155032
+Q166142	P1687_Wikidata_property	P6823
+Q166142	P1552_has_quality	Q4781497
+Q6027324	P279_subclass_of	Q2539
+Q6027324	P361_part_of	Q2539
+Q6027324	P31_instance_of	Q28643
+Q6027324	P2283_uses	Q6015447
+Q43967068	P279_subclass_of	Q2539
+Q327675	P279_subclass_of	Q8366
+Q327675	P361_part_of	Q7233576
+Q30232	P910_topic's_main_category	Q8226474
+Q30232	P279_subclass_of	Q80006
+Q30232	P279_subclass_of	Q1378470
+Q30232	P31_instance_of	Q66747126
+Q30232	P31_instance_of	Q2904257
+Q30232	P1552_has_quality	Q1365169
+Q1053367	P361_part_of	Q2539
+Q1053367	P910_topic's_main_category	Q109558711
+Q9143	P279_subclass_of	Q629206
+Q9143	P910_topic's_main_category	Q34059
+Q9143	P1424_topic's_main_template	Q7480464
+Q9143	P1424_topic's_main_template	Q6459089
+Q9143	P1963_properties_for_this_type	P571
+Q9143	P1963_properties_for_this_type	P348
+Q9143	P1963_properties_for_this_type	P306
+Q9143	P1963_properties_for_this_type	P275
+Q9143	P1963_properties_for_this_type	P856
+Q9143	P1963_properties_for_this_type	P737
+Q9143	P1963_properties_for_this_type	P1482
+Q9143	P1963_properties_for_this_type	P1324
+Q9143	P1963_properties_for_this_type	P527
+Q9143	P1963_properties_for_this_type	P2992
+Q9143	P1963_properties_for_this_type	P18
+Q9143	P1963_properties_for_this_type	P1814
+Q9143	P1963_properties_for_this_type	P1424
+Q9143	P1963_properties_for_this_type	P1401
+Q9143	P1963_properties_for_this_type	P138
+Q9143	P1963_properties_for_this_type	P1613
+Q9143	P1963_properties_for_this_type	P287
+Q9143	P1963_properties_for_this_type	P2184
+Q9143	P1963_properties_for_this_type	P61
+Q9143	P1963_properties_for_this_type	P144
+Q9143	P1963_properties_for_this_type	P8131
+Q9143	P1963_properties_for_this_type	P10027
+Q9143	P1963_properties_for_this_type	P7078
+Q9143	P1963_properties_for_this_type	P11201
+Q9143	P2283_uses	Q613299
+Q9143	P5008_on_focus_list_of_Wikimedia_project	Q5460604
+Q9143	P1687_Wikidata_property	P277
+Q9143	P1687_Wikidata_property	P3985
+Q9143	P1687_Wikidata_property	P4428
+Q9143	P1552_has_quality	Q55121384
+Q9143	P1552_has_quality	Q116481801
+Q9143	P6104_maintained_by_WikiProject	Q6526225
+Q9143	P361_part_of	Q68
+Q9143	P2184_history_of_topic	Q1068652
+Q9143	P1889_different_from	Q173341
+Q9143	P31_instance_of	Q66747126
+Q9143	P527_has_part(s)	Q1152399
+Q9143	P527_has_part(s)	Q25346349
+Q9143	P527_has_part(s)	Q1199356
+Q9143	P527_has_part(s)	Q865760
+Q9143	P2354_has_list	Q389085
+Q9143	P2354_has_list	Q11707952
+Q79798	P279_subclass_of	Q7553
+Q79798	P279_subclass_of	Q182557
+Q79798	P1424_topic's_main_template	Q6681991
+Q79798	P1424_topic's_main_template	Q7663977
+Q79798	P2579_studied_by	Q30642
+Q79798	P2184_history_of_topic	Q3231826
+Q79798	P1343_described_by_source	Q108928644
+Q79798	P1535_used_by	Q28031555
+Q845566	P361_part_of	Q80006
+Q845566	P31_instance_of	Q66747126
+Q845566	P31_instance_of	Q4485156
+Q845566	P2283_uses	Q193231
+Q831672	P910_topic's_main_category	Q7035728
+Q831672	P279_subclass_of	Q272735
+Q831672	P279_subclass_of	Q3115587
+Q831672	P279_subclass_of	Q7631151
+Q814447	P279_subclass_of	Q80006
+Q814447	P279_subclass_of	Q30232
+Q814447	P31_instance_of	Q66747126
+Q115215420	P279_subclass_of	Q486902
+Q115215420	P2579_studied_by	Q2539
+Q115215420	P1269_facet_of	Q2539
+Q115215420	P31_instance_of	Q1047113
+Q115215420	P31_instance_of	Q2267705
+Q724168	P279_subclass_of	Q174733
+Q724168	P279_subclass_of	Q3867040
+Q724168	P1535_used_by	Q6501221
+Q724168	P361_part_of	Q21198
+Q724168	P941_inspired_by	Q176452
+Q724168	P2579_studied_by	Q131476
+Q724168	P31_instance_of	Q1941921
+Q20789991	P31_instance_of	Q12718609
+Q20789991	P366_has_use	Q2061913
+Q18209310	P31_instance_of	Q891055
+Q18209310	P31_instance_of	Q1229611
+Q18209310	P31_instance_of	Q341
+Q18209310	P277_programmed_in	Q28865
+Q18209310	P277_programmed_in	Q206904
+Q18209310	P275_copyright_license	Q1444631
+Q18209310	P366_has_use	Q2374463
+Q18209310	P400_platform	Q1406
+Q18209310	P6216_copyright_status	Q50423863
+Q18209310	P1343_described_by_source	Q114323186
+Q18209310	P127_owned_by	Q120120630
+Q10336440	P2578_is_the_study_of	Q1301371
+Q10336440	P279_subclass_of	Q21198
+Q10336440	P31_instance_of	Q11862829
+Q85914626	P279_subclass_of	Q8366
+Q4778968	P31_instance_of	Q341
+Q4778968	P31_instance_of	Q39999225
+Q4778968	P31_instance_of	Q20706915
+Q4778968	P277_programmed_in	Q251
+Q4778968	P275_copyright_license	Q616526
+Q4778968	P178_developer	Q489709
+Q4778968	P366_has_use	Q180634
+Q4778968	P366_has_use	Q8513
+Q830687	P361_part_of	Q2539
+Q830687	P279_subclass_of	Q2539
+Q830687	P31_instance_of	Q2695280
+Q830687	P910_topic's_main_category	Q87071489
+Q816826	P910_topic's_main_category	Q8548779
+Q816826	P279_subclass_of	Q11540953
+Q816826	P279_subclass_of	Q110458263
+Q816826	P31_instance_of	Q1914636
+Q816826	P2579_studied_by	Q21198
+Q816826	P1889_different_from	Q18733
+Q189439	P910_topic's_main_category	Q7285270
+Q189439	P366_has_use	Q80006
+Q189439	P366_has_use	Q192521
+Q189439	P366_has_use	Q54277
+Q189439	P31_instance_of	Q1914636
+Q189439	P1343_described_by_source	Q4355609
+Q189439	P1889_different_from	Q613566
+Q85810444	P279_subclass_of	Q192776
+Q85810444	P279_subclass_of	Q113364611
+Q85810444	P178_developer	Q16927616
+Q85810444	P178_developer	Q44749723
+Q85810444	P178_developer	Q30251943
+Q85810444	P155_follows	Q1457734
+Q85810444	P155_follows	Q6673524
+Q85810444	P527_has_part(s)	Q745243
+Q85810444	P2283_uses	Q103701642
+Q85810444	P366_has_use	Q30642
+Q85810444	P366_has_use	Q844240
+Q85810444	P366_has_use	Q3245113
+Q85810444	P366_has_use	Q1394144
+Q7247856	P279_subclass_of	Q7397
+Q7247856	P31_instance_of	Q17155032
+Q1503724	P910_topic's_main_category	Q8718628
+Q1503724	P1269_facet_of	Q21198
+Q1503724	P279_subclass_of	Q8366
+Q1503724	P279_subclass_of	Q817862
+Q190087	P2738_disjoint_union_of	Q23766486
+Q190087	P279_subclass_of	Q21146257
+Q190087	P31_instance_of	Q96253971
+Q190087	P1889_different_from	Q175263
+Q190087	P366_has_use	Q21198
+Q128392	P910_topic's_main_category	Q6452951
+Q128392	P31_instance_of	Q188267
+Q128392	P31_instance_of	Q66747126
+Q128392	P1424_topic's_main_template	Q20353483
+Q128392	P1382_partially_coincident_with	Q232661
+Q128392	P279_subclass_of	Q80006
+Q128392	P461_opposite_of	Q107986267
+Q197536	P910_topic's_main_category	Q24070291
+Q197536	P279_subclass_of	Q111862379
+Q197536	P366_has_use	Q11660
+Q197536	P31_instance_of	Q11862829
+Q197536	P31_instance_of	Q1047113
+Q197536	P31_instance_of	Q2267705
+Q2271421	P279_subclass_of	Q1185804
+Q2271421	P2579_studied_by	Q30642
+Q2271421	P2283_uses	Q30642
+Q456632	P31_instance_of	Q1047113
+Q456632	P31_instance_of	Q11862829
+Q456632	P31_instance_of	Q2267705
+Q456632	P361_part_of	Q6661985
+Q456632	P361_part_of	Q10302162
+Q456632	P361_part_of	Q113208012
+Q456632	P910_topic's_main_category	Q7003976
+Q456632	P1269_facet_of	Q18357734
+Q456632	P3095_practiced_by	Q114869997
+Q27948	P279_subclass_of	Q16773055
+Q27948	P279_subclass_of	Q175263
+Q27948	P279_subclass_of	Q133250
+Q27948	P1889_different_from	Q12139612
+Q27948	P31_instance_of	Q827335
+Q27948	P31_instance_of	Q1047113
+Q965769	P31_instance_of	Q836575
+Q965769	P1269_facet_of	Q950250
+Q965769	P279_subclass_of	Q65938634
+Q965769	P279_subclass_of	Q241317
+Q965769	P2283_uses	Q189439
+Q965769	P2283_uses	Q2727468
+Q965769	P2283_uses	Q2667186
+Q965769	P2283_uses	Q22073956
+Q28865	P178_developer	Q30942
+Q28865	P31_instance_of	Q899523
+Q28865	P31_instance_of	Q1268980
+Q28865	P31_instance_of	Q3839507
+Q28865	P31_instance_of	Q187432
+Q28865	P31_instance_of	Q12772052
+Q28865	P31_instance_of	Q21562092
+Q28865	P31_instance_of	Q1993334
+Q28865	P31_instance_of	Q1004415
+Q28865	P31_instance_of	Q50843083
+Q28865	P31_instance_of	Q28923017
+Q28865	P910_topic's_main_category	Q7136128
+Q28865	P135_movement	Q1076638
+Q28865	P737_influenced_by	Q2166735
+Q28865	P737_influenced_by	Q1057802
+Q28865	P737_influenced_by	Q1928222
+Q28865	P737_influenced_by	Q42478
+Q28865	P737_influenced_by	Q251
+Q28865	P737_influenced_by	Q132874
+Q28865	P737_influenced_by	Q34010
+Q28865	P737_influenced_by	Q296187
+Q28865	P737_influenced_by	Q775159
+Q28865	P737_influenced_by	Q1268744
+Q28865	P737_influenced_by	Q1156474
+Q28865	P306_operating_system	Q174666
+Q28865	P2184_history_of_topic	Q4205080
+Q28865	P1424_topic's_main_template	Q8084959
+Q28865	P287_designed_by	Q30942
+Q28865	P3966_programming_paradigm	Q193076
+Q28865	P3966_programming_paradigm	Q79872
+Q28865	P3966_programming_paradigm	Q380679
+Q28865	P3966_programming_paradigm	Q275596
+Q28865	P275_copyright_license	Q2600299
+Q28865	P366_has_use	Q386275
+Q28865	P366_has_use	Q638608
+Q28865	P366_has_use	Q117801
+Q28865	P366_has_use	Q2539
+Q28865	P366_has_use	Q1988917
+Q28865	P277_programmed_in	Q28865
+Q28865	P277_programmed_in	Q15777
+Q28865	P7078_typing_discipline	Q1268978
+Q28865	P7078_typing_discipline	Q16965428
+Q28865	P4428_implementation_of	Q599384
+Q28865	P4428_implementation_of	Q1053999
+Q28865	P4428_implementation_of	Q657498
+Q28865	P4428_implementation_of	Q1143023
+Q28865	P747_has_edition_or_translation	Q99513286
+Q28865	P747_has_edition_or_translation	Q31205855
+Q28865	P6216_copyright_status	Q50423863
+Q80993	P910_topic's_main_category	Q8267873
+Q80993	P361_part_of	Q11661
+Q80993	P361_part_of	Q682496
+Q80993	P2354_has_list	Q7112734
+Q80993	P1424_topic's_main_template	Q10963663
+Q80993	P279_subclass_of	Q682496
+Q80993	P279_subclass_of	Q21198
+Q80993	P31_instance_of	Q12015335
+Q80993	P31_instance_of	Q4671286
+Q80993	P31_instance_of	Q11862829
+Q80993	P31_instance_of	Q1047113
+Q80993	P31_instance_of	Q2267705
+Q80993	P2184_history_of_topic	Q3348143
+Q80993	P1535_used_by	Q7102019
+Q80993	P1535_used_by	Q1254373
+Q623950	P61_discoverer_or_inventor	Q382207
+Q623950	P279_subclass_of	Q8366
+Q623950	P279_subclass_of	Q2878
+Q623950	P910_topic's_main_category	Q72287460
+Q623950	P461_opposite_of	Q1653494
+Q623950	P178_developer	Q382207
+Q623950	P2159_computes_solution_to	Q2878
+Q623950	P1478_has_immediate_cause	Q207527
+Q2539	P910_topic's_main_category	Q7015116
+Q2539	P279_subclass_of	Q21198
+Q2539	P279_subclass_of	Q11660
+Q2539	P155_follows	Q378859
+Q2539	P155_follows	Q2462783
+Q2539	P1424_topic's_main_template	Q18056796
+Q2539	P1382_partially_coincident_with	Q12483
+Q2539	P1889_different_from	Q11660
+Q2539	P178_developer	Q710266
+Q2539	P527_has_part(s)	Q7094097
+Q2539	P527_has_part(s)	Q334384
+Q2539	P527_has_part(s)	Q1152135
+Q2539	P527_has_part(s)	Q830687
+Q2539	P31_instance_of	Q11862829
+Q2539	P31_instance_of	Q374814
+Q2539	P31_instance_of	Q43015
+Q2539	P2283_uses	Q483639
+Q2539	P3095_practiced_by	Q23515215
+Q2539	P2578_is_the_study_of	Q115215420
+Q2374463	P910_topic's_main_category	Q19636176
+Q2374463	P5008_on_focus_list_of_Wikimedia_project	Q54439832
+Q2374463	P3095_practiced_by	Q29169143
+Q2374463	P2283_uses	Q12483
+Q2374463	P2283_uses	Q33521
+Q2374463	P279_subclass_of	Q336
+Q2374463	P2578_is_the_study_of	Q42848
+Q2374463	P31_instance_of	Q2465832
+Q2374463	P31_instance_of	Q11862829
+Q620615	P279_subclass_of	Q166142
+Q620615	P279_subclass_of	Q21743174
+Q620615	P279_subclass_of	Q340169
+Q620615	P279_subclass_of	Q40056
+Q620615	P31_instance_of	Q11862829
+Q620615	P31_instance_of	Q1047113
+Q620615	P31_instance_of	Q2267705
+Q30267	P910_topic's_main_category	Q8271365
+Q30267	P279_subclass_of	Q2465506
+Q30267	P279_subclass_of	Q80006
+Q30267	P31_instance_of	Q188267
+Q30267	P31_instance_of	Q66747126
+Q15855099	P31_instance_of	Q341
+Q15855099	P31_instance_of	Q2916479
+Q15855099	P31_instance_of	Q184148
+Q15855099	P277_programmed_in	Q59
+Q15855099	P275_copyright_license	Q10513445
+Q15855099	P178_developer	Q2872634
+Q15855099	P2992_software_quality_assurance	Q965769
+Q15855099	P306_operating_system	Q14656
+Q15855099	P6216_copyright_status	Q50423863
+Q15855099	P279_subclass_of	Q190637
+Q755673	P910_topic's_main_category	Q7005249
+Q755673	P279_subclass_of	Q8366
+Q755673	P279_subclass_of	Q816826
+Q1152399	P910_topic's_main_category	Q30687244
+Q1152399	P2579_studied_by	Q37437
+Q1152399	P279_subclass_of	Q373045
+Q1152399	P527_has_part(s)	Q6537698
+Q1152399	P1552_has_quality	Q845118
+Q1152399	P1889_different_from	Q2395230
+Q1152399	P2354_has_list	Q5155966
+Q1085860	P279_subclass_of	Q1879820
+Q1085860	P279_subclass_of	Q8366
+Q1085860	P910_topic's_main_category	Q8682340
+Q1085860	P2579_studied_by	Q11216
+Q207434	P910_topic's_main_category	Q8527505
+Q207434	P31_instance_of	Q11862829
+Q207434	P31_instance_of	Q4671286
+Q207434	P1269_facet_of	Q21198
+Q207434	P1269_facet_of	Q9418
+Q207434	P1269_facet_of	Q82604
+Q207434	P1269_facet_of	Q469666
+Q207434	P279_subclass_of	Q21198
+Q207434	P2283_uses	Q47146
+Q207434	P1889_different_from	Q97008347
+Q207434	P3095_practiced_by	Q97009416
+Q7003418	P910_topic's_main_category	Q6465220
+Q7003418	P31_instance_of	Q6554356
+Q7003418	P31_instance_of	Q27948
+Q7003418	P61_discoverer_or_inventor	Q439245
+Q7003418	P61_discoverer_or_inventor	Q4391903
+Q7003418	P527_has_part(s)	Q118155
+Q7003418	P279_subclass_of	Q6554356
+Q7003418	P279_subclass_of	Q27948
+Q7003418	P4428_implementation_of	Q27948
+Q131476	P279_subclass_of	Q17737
+Q131476	P279_subclass_of	Q395
+Q131476	P361_part_of	Q121416
+Q131476	P361_part_of	Q21198
+Q131476	P2578_is_the_study_of	Q141488
+Q131476	P31_instance_of	Q11862829
+Q131476	P31_instance_of	Q4671286
+Q131476	P31_instance_of	Q1936384
+Q131476	P31_instance_of	Q1047113
+Q131476	P31_instance_of	Q2267705
+Q131476	P527_has_part(s)	Q1192971
+Q131476	P61_discoverer_or_inventor	Q7604
+Q186152	P279_subclass_of	Q175263
+Q186152	P279_subclass_of	Q17008256
+Q186152	P910_topic's_main_category	Q8264625
+Q186152	P1889_different_from	Q15777392
+Q186152	P1552_has_quality	Q253405
+Q186152	P1552_has_quality	Q1868547
+Q186152	P4428_implementation_of	Q27948
+Q186152	P4428_implementation_of	Q184754
+Q3240252	P910_topic's_main_category	Q7215421
+Q3240252	P31_instance_of	Q151885
+Q3240252	P31_instance_of	Q151885
+Q3240252	P361_part_of	Q21198
+Q3240252	P1424_topic's_main_template	Q20087905
+Q3240252	P279_subclass_of	Q65560351
+Q3240252	P279_subclass_of	Q114023761
+Q3240252	P1889_different_from	Q950981
+Q3240252	P1889_different_from	Q2765105
+Q3240252	P1269_facet_of	Q1948412
+Q5227391	P3095_practiced_by	Q1078262
+Q5227391	P31_instance_of	Q1914636
+Q5227391	P279_subclass_of	Q1149776
+Q5227391	P279_subclass_of	Q15563228
+Q5227391	P121_item_operated	Q8513
+Q5227391	P2283_uses	Q176165
+Q504353	P2579_studied_by	Q21198
+Q504353	P910_topic's_main_category	Q7724379
+Q504353	P31_instance_of	Q28455561
+Q128570	P910_topic's_main_category	Q7217021
+Q128570	P361_part_of	Q177005
+Q128570	P361_part_of	Q21198
+Q128570	P279_subclass_of	Q177005
+Q128570	P31_instance_of	Q28598684
+Q128570	P31_instance_of	Q2267705
+Q128570	P3095_practiced_by	Q2904006
+Q128570	P5008_on_focus_list_of_Wikimedia_project	Q54439832
+Q128570	P1889_different_from	Q1048526
+Q128570	P1889_different_from	Q815297
+Q128570	P1889_different_from	Q177005
+Q128570	P1424_topic's_main_template	Q6719052
+Q1770325	P31_instance_of	Q7397
+Q1770325	P178_developer	Q513861
+Q1770325	P366_has_use	Q3353185
+Q1770325	P366_has_use	Q2374463
+Q1770325	P366_has_use	Q3331475
+Q1770325	P275_copyright_license	Q3238057
+Q1770325	P6216_copyright_status	Q50423863
+Q1770325	P414_stock_exchange	Q82059
+Q1770325	P452_industry	Q7397
+Q4479242	P366_has_use	Q79872
+Q4479242	P1889_different_from	Q217594
+Q4479242	P1889_different_from	Q37517
+Q4479242	P1889_different_from	Q621114
+Q4479242	P1889_different_from	Q187588
+Q4479242	P1889_different_from	Q18204
+Q4479242	P1889_different_from	Q21281665
+Q4479242	P1382_partially_coincident_with	Q1164699
+Q4479242	P279_subclass_of	Q7184903
+Q4479242	P1552_has_quality	Q5128020
+Q4479242	P527_has_part(s)	Q1172412
+Q4479242	P527_has_part(s)	Q815844
+Q4479242	P1557_manifestation_of	Q1924819
+Q30503704	P279_subclass_of	Q41883552
+Q30503704	P910_topic's_main_category	Q7216428
+Q30503704	P361_part_of	Q131476
+Q831366	P101_field_of_work	Q177571
+Q831366	P101_field_of_work	Q172491
+Q831366	P279_subclass_of	Q8366
+Q831366	P279_subclass_of	Q272735
+Q831366	P279_subclass_of	Q2067937
+Q831366	P2579_studied_by	Q131476
+Q831366	P366_has_use	Q172491
+Q831366	P366_has_use	Q184609
+Q831366	P1269_facet_of	Q2374463
+Q831366	P31_instance_of	Q334384
+Q30642	P910_topic's_main_category	Q9149760
+Q30642	P279_subclass_of	Q11660
+Q30642	P279_subclass_of	Q21198
+Q30642	P279_subclass_of	Q182557
+Q30642	P279_subclass_of	Q8148
+Q30642	P279_subclass_of	Q11862829
+Q30642	P2578_is_the_study_of	Q194152
+Q30642	P2578_is_the_study_of	Q7451191
+Q30642	P2578_is_the_study_of	Q1416732
+Q30642	P2578_is_the_study_of	Q2748079
+Q30642	P2578_is_the_study_of	Q1759657
+Q30642	P2578_is_the_study_of	Q79798
+Q30642	P2578_is_the_study_of	Q403574
+Q30642	P2578_is_the_study_of	Q1513879
+Q30642	P2578_is_the_study_of	Q6588467
+Q30642	P2578_is_the_study_of	Q7310755
+Q30642	P2578_is_the_study_of	Q2271421
+Q30642	P2578_is_the_study_of	Q1948408
+Q30642	P2578_is_the_study_of	Q48522
+Q30642	P2578_is_the_study_of	Q1394144
+Q30642	P2578_is_the_study_of	Q63087
+Q30642	P2578_is_the_study_of	Q1129466
+Q30642	P2578_is_the_study_of	Q16346
+Q30642	P2578_is_the_study_of	Q18395344
+Q30642	P2578_is_the_study_of	Q47165059
+Q30642	P1269_facet_of	Q1662562
+Q30642	P1424_topic's_main_template	Q23006254
+Q30642	P3095_practiced_by	Q116952787
+Q30642	P31_instance_of	Q11862829
+Q30642	P31_instance_of	Q1047113
+Q483130	P279_subclass_of	Q121182
+Q483130	P279_subclass_of	Q2695280
+Q483130	P910_topic's_main_category	Q8482479
+Q483130	P366_has_use	Q23498
+Q483130	P366_has_use	Q39809
+Q483130	P366_has_use	Q42515
+Q483130	P366_has_use	Q69883
+Q483130	P366_has_use	Q161733
+Q483130	P366_has_use	Q806737
+Q483130	P366_has_use	Q740083
+Q483130	P366_has_use	Q619798
+Q483130	P366_has_use	Q7258040
+Q483130	P2670_has_part(s)_of_the_class	Q4505959
+Q483130	P1687_Wikidata_property	P9601
+Q483130	P1889_different_from	Q3537694
+Q483130	P3095_practiced_by	Q115661535
+Q483130	P31_instance_of	Q2267705
+Q21652121	P461_opposite_of	Q1366323
+Q21652121	P279_subclass_of	Q16889133
+Q21652121	P279_subclass_of	Q4479242
+Q21652121	P2579_studied_by	Q80006
+Q23542287	P31_instance_of	Q7397
+Q23542287	P178_developer	Q2283
+Q23542287	P366_has_use	Q6504956
+Q23542287	P138_named_after	Q3353185
+Q23542287	P1072_readable_file_format	Q105866180
+Q23542287	P1072_readable_file_format	Q105864815
+Q23542287	P1073_writable_file_format	Q105866180
+Q23542287	P1073_writable_file_format	Q105864815
+Q23542287	P306_operating_system	Q1406
+Q23542287	P279_subclass_of	Q1988917
+Q23542287	P279_subclass_of	Q1331926
+Q4798119	P31_instance_of	Q95001953
+Q4798119	P31_instance_of	Q110994345
+Q4798119	P277_programmed_in	Q2407
+Q4798119	P277_programmed_in	Q251
+Q4798119	P277_programmed_in	Q2005
+Q4798119	P275_copyright_license	Q27017232
+Q4798119	P170_creator	Q6284201
+Q4798119	P366_has_use	Q336
+Q4798119	P306_operating_system	Q1406
+Q4798119	P306_operating_system	Q388
+Q4798119	P306_operating_system	Q14116
+Q4798119	P178_developer	Q28746410
+Q4798119	P126_maintained_by	Q28746410
+Q4798119	P6216_copyright_status	Q50423863
+Q4798119	P2360_intended_public	Q29169143
+Q4798119	P2360_intended_public	Q1650915
+Q251	P31_instance_of	Q12772052
+Q251	P31_instance_of	Q56062429
+Q251	P31_instance_of	Q7397
+Q251	P31_instance_of	Q12772052
+Q251	P31_instance_of	Q11862829
+Q251	P31_instance_of	Q1047113
+Q251	P31_instance_of	Q2267705
+Q251	P178_developer	Q14647
+Q251	P138_named_after	Q2642722
+Q251	P287_designed_by	Q92622
+Q251	P287_designed_by	Q14647
+Q251	P910_topic's_main_category	Q5879648
+Q251	P822_mascot	Q19844913
+Q251	P737_influenced_by	Q2407
+Q251	P737_influenced_by	Q15777
+Q251	P737_influenced_by	Q154755
+Q251	P737_influenced_by	Q188531
+Q251	P737_influenced_by	Q633894
+Q251	P737_influenced_by	Q1323362
+Q251	P737_influenced_by	Q732089
+Q251	P737_influenced_by	Q1928222
+Q251	P737_influenced_by	Q1042397
+Q251	P737_influenced_by	Q212569
+Q251	P737_influenced_by	Q2370
+Q251	P737_influenced_by	Q1505415
+Q251	P737_influenced_by	Q567345
+Q251	P737_influenced_by	Q92604
+Q251	P737_influenced_by	Q3369731
+Q251	P737_influenced_by	Q3273595
+Q251	P361_part_of	Q1713118
+Q251	P3966_programming_paradigm	Q223335
+Q251	P3966_programming_paradigm	Q79872
+Q251	P3966_programming_paradigm	Q5127844
+Q251	P3966_programming_paradigm	Q1056451
+Q251	P3966_programming_paradigm	Q1051282
+Q251	P3966_programming_paradigm	Q5159109
+Q251	P3966_programming_paradigm	Q609588
+Q251	P1889_different_from	Q1713118
+Q251	P1889_different_from	Q2005
+Q251	P1889_different_from	Q2089134
+Q251	P7078_typing_discipline	Q1940914
+Q251	P7078_typing_discipline	Q991202
+Q251	P7078_typing_discipline	Q736866
+Q251	P7078_typing_discipline	Q3509459
+Q251	P7078_typing_discipline	Q17123089
+Q251	P1343_described_by_source	Q1684188
+Q251	P1151_topic's_main_Wikimedia_portal	Q18046417
+Q251	P6216_copyright_status	Q50423863
+Q251	P5008_on_focus_list_of_Wikimedia_project	Q6173448
+Q251	P50_author	Q92622
+Q251	P3985_supports_programming_language	Q504453
+Q1465654	P31_instance_of	Q15548076
+Q1465654	P31_instance_of	Q15548064
+Q1465654	P178_developer	Q15898201
+Q1465654	P306_operating_system	Q43627
+Q1465654	P306_operating_system	Q1406
+Q1465654	P275_copyright_license	Q3238057
+Q1465654	P366_has_use	Q184793
+Q1465654	P1073_writable_file_format	Q105864649
+Q1465654	P6216_copyright_status	Q50423863
+Q188522	P31_instance_of	Q613918
+Q188522	P31_instance_of	Q96273743
+Q188522	P361_part_of	Q80993
+Q188522	P361_part_of	Q757012
+Q188522	P279_subclass_of	Q7247798
+Q188522	P910_topic's_main_category	Q8759226
+Q188522	P1552_has_quality	Q1307327
+Q188522	P1552_has_quality	Q30594664
+Q188522	P1552_has_quality	Q1211721
+Q188522	P1424_topic's_main_template	Q106993266
+Q188522	P3712_has_goal	Q613918
+Q188522	P2737_union_of	Q23766486
+Q17146476	P31_instance_of	Q5597177
+Q17146476	P31_instance_of	Q1130645
+Q17146476	P31_instance_of	Q783866
+Q17146476	P159_headquarters_location	Q340
+Q17146476	P740_location_of_formation	Q340
+Q17146476	P366_has_use	Q336
+Q17146476	P366_has_use	Q185020
+Q17146476	P366_has_use	Q1045782
+Q17146476	P366_has_use	Q634532
+Q17146476	P366_has_use	Q895726
+Q17146476	P366_has_use	Q6653802
+Q17146476	P366_has_use	Q1257468
+Q17146476	P366_has_use	Q1067794
+Q17146476	P366_has_use	Q2550959
+Q17146476	P366_has_use	Q3503416
+Q17146476	P366_has_use	Q4343952
+Q17146476	P366_has_use	Q2539
+Q17146476	P452_industry	Q880371
+Q17146476	P277_programmed_in	Q28865
+Q17146476	P277_programmed_in	Q2005
+Q17146476	P277_programmed_in	Q2613697
+Q17146476	P277_programmed_in	Q206904
+Q17146476	P8324_funder	Q7320811
+Q17146476	P8324_funder	Q17112054
+Q17146476	P1547_depends_on_software	Q107380935
+Q17146476	P1547_depends_on_software	Q107370376
+Q17146476	P1547_depends_on_software	Q95972795
+Q17146476	P1547_depends_on_software	Q110609455
+Q17146476	P1547_depends_on_software	Q116964912
+Q17146476	P1547_depends_on_software	Q116964913
+Q17146476	P1547_depends_on_software	Q116964914
+Q17146476	P1547_depends_on_software	Q116964915
+Q17146476	P1547_depends_on_software	Q116964918
+Q17146476	P1547_depends_on_software	Q116964920
+Q17146476	P1547_depends_on_software	Q116964921
+Q17146476	P1547_depends_on_software	Q116964922
+Q17146476	P1547_depends_on_software	Q116964923
+Q17146476	P1547_depends_on_software	Q116964924
+Q17146476	P1547_depends_on_software	Q116950962
+Q17146476	P1547_depends_on_software	Q116950963
+Q17146476	P1547_depends_on_software	Q116950966
+Q17146476	P1547_depends_on_software	Q116950967
+Q17146476	P1547_depends_on_software	Q116950976
+Q17146476	P1547_depends_on_software	Q116950977
+Q17146476	P1547_depends_on_software	Q116964926
+Q17146476	P1547_depends_on_software	Q116964927
+Q17146476	P1547_depends_on_software	Q116964928
+Q17146476	P1547_depends_on_software	Q116964929
+Q17146476	P1547_depends_on_software	Q116964932
+Q17146476	P1547_depends_on_software	Q116964933
+Q17146476	P1547_depends_on_software	Q116964934
+Q17146476	P1547_depends_on_software	Q116964935
+Q17146476	P1547_depends_on_software	Q116951326
+Q17146476	P1547_depends_on_software	Q116964936
+Q17146476	P1547_depends_on_software	Q116964937
+Q17146476	P1547_depends_on_software	Q116964938
+Q17146476	P1547_depends_on_software	Q116964941
+Q17146476	P1547_depends_on_software	Q116964942
+Q17146476	P1547_depends_on_software	Q116964943
+Q17146476	P1547_depends_on_software	Q116964944
+Q17146476	P1547_depends_on_software	Q116964945
+Q17146476	P1547_depends_on_software	Q116964946
+Q17146476	P1547_depends_on_software	Q116964947
+Q17146476	P1547_depends_on_software	Q116964948
+Q17146476	P1547_depends_on_software	Q116964951
+Q17146476	P306_operating_system	Q174666
+Q245652	P910_topic's_main_category	Q8418499
+Q245652	P361_part_of	Q2539
+Q245652	P361_part_of	Q12483
+Q115564437	P31_instance_of	Q207977
+Q115564437	P31_instance_of	Q117246174
+Q115564437	P31_instance_of	Q218616
+Q115564437	P31_instance_of	Q870780
+Q115564437	P137_operator	Q21708200
+Q115564437	P61_discoverer_or_inventor	Q21708200
+Q115564437	P2283_uses	Q115570683
+Q115564437	P2283_uses	Q112150238
+Q115564437	P2283_uses	Q95726734
+Q115564437	P2283_uses	Q116709136
+Q115564437	P2283_uses	Q117286419
+Q115564437	P178_developer	Q21708200
+Q115564437	P366_has_use	Q1513879
+Q115564437	P366_has_use	Q79798
+Q115564437	P366_has_use	Q116921423
+Q115564437	P170_creator	Q21708200
+Q115564437	P275_copyright_license	Q3238057
+Q115564437	P6216_copyright_status	Q50423863
+Q115564437	P112_founded_by	Q21708200
+Q115564437	P400_platform	Q48493
+Q115564437	P400_platform	Q94
+Q115564437	P2079_fabrication_method	Q334384
+Q115564437	P2079_fabrication_method	Q830687
+Q115564437	P5008_on_focus_list_of_Wikimedia_project	Q117245199
+Q115564437	P527_has_part(s)	Q117303591
+Q115564437	P910_topic's_main_category	Q119953339
+Q5249244	P279_subclass_of	Q831366
+Q735441	P178_developer	Q628051
+Q735441	P275_copyright_license	Q3238057
+Q735441	P306_operating_system	Q1406
+Q735441	P1072_readable_file_format	Q691652
+Q735441	P1072_readable_file_format	Q1053358
+Q735441	P1072_readable_file_format	Q616714
+Q735441	P1072_readable_file_format	Q3509055
+Q735441	P1072_readable_file_format	Q49416323
+Q735441	P1072_readable_file_format	Q1238229
+Q735441	P1072_readable_file_format	Q105857557
+Q735441	P1072_readable_file_format	Q105857730
+Q735441	P1072_readable_file_format	Q112661240
+Q735441	P1072_readable_file_format	Q112661245
+Q735441	P366_has_use	Q184793
+Q735441	P400_platform	Q1406
+Q735441	P6216_copyright_status	Q50423863
+Q1437428	P279_subclass_of	Q39645
+Q1437428	P279_subclass_of	Q21198
+Q8366	P279_subclass_of	Q41689629
+Q8366	P279_subclass_of	Q386724
+Q8366	P138_named_after	Q9038
+Q8366	P361_part_of	Q21198
+Q8366	P361_part_of	Q13636890
+Q8366	P361_part_of	Q395
+Q8366	P1963_properties_for_this_type	P3753
+Q8366	P1963_properties_for_this_type	P3756
+Q8366	P1963_properties_for_this_type	P3752
+Q8366	P1963_properties_for_this_type	P3755
+Q8366	P1963_properties_for_this_type	P3754
+Q8366	P1963_properties_for_this_type	P3757
+Q8366	P1424_topic's_main_template	Q5910871
+Q8366	P1343_described_by_source	Q2041543
+Q8366	P1343_described_by_source	Q2657718
+Q8366	P5008_on_focus_list_of_Wikimedia_project	Q5460604
+Q8366	P5008_on_focus_list_of_Wikimedia_project	Q6173448
+Q8366	P6104_maintained_by_WikiProject	Q6526225
+Q8366	P1552_has_quality	Q5157286
+Q8366	P1552_has_quality	Q1296251
+Q8366	P1552_has_quality	Q7595718
+Q8366	P1889_different_from	Q22349237
+Q21447895	P31_instance_of	Q341
+Q21447895	P31_instance_of	Q271680
+Q21447895	P178_developer	Q16927616
+Q21447895	P366_has_use	Q2539
+Q21447895	P275_copyright_license	Q13785927
+Q21447895	P138_named_after	Q188524
+Q21447895	P138_named_after	Q205446
+Q21447895	P277_programmed_in	Q2407
+Q21447895	P400_platform	Q14116
+Q21447895	P400_platform	Q94
+Q21447895	P400_platform	Q48493
+Q21447895	P400_platform	Q1406
+Q21447895	P800_notable_work	Q20856875
+Q21447895	P61_discoverer_or_inventor	Q6173703
+Q21447895	P61_discoverer_or_inventor	Q24803809
+Q21447895	P1343_described_by_source	Q29040034
+Q21447895	P306_operating_system	Q388
+Q21447895	P306_operating_system	Q14116
+Q21447895	P306_operating_system	Q48493
+Q21447895	P306_operating_system	Q94
+Q21447895	P1547_depends_on_software	Q197520
+Q21447895	P1547_depends_on_software	Q107381441
+Q21447895	P1547_depends_on_software	Q107381442
+Q21447895	P1547_depends_on_software	Q107381443
+Q21447895	P1547_depends_on_software	Q107381446
+Q21447895	P1547_depends_on_software	Q107381449
+Q21447895	P1547_depends_on_software	Q107381450
+Q21447895	P1547_depends_on_software	Q107370376
+Q21447895	P1547_depends_on_software	Q107381180
+Q21447895	P1547_depends_on_software	Q107380511
+Q21447895	P1547_depends_on_software	Q107381132
+Q21447895	P1547_depends_on_software	Q107380745
+Q21447895	P1547_depends_on_software	Q107381458
+Q21447895	P1547_depends_on_software	Q107381459
+Q21447895	P1547_depends_on_software	Q107381454
+Q21447895	P6216_copyright_status	Q50423863
+Q183197	P279_subclass_of	Q166142
+Q183197	P279_subclass_of	Q7247856
+Q183197	P31_instance_of	Q4485156
+Q183197	P31_instance_of	Q40056
+Q183197	P1424_topic's_main_template	Q13412532
+Q183197	P527_has_part(s)	Q59154568
+Q183197	P910_topic's_main_category	Q6938112
+Q7673435	P31_instance_of	Q1058914
+Q7673435	P31_instance_of	Q7397
+Q7673435	P31_instance_of	Q891723
+Q7673435	P414_stock_exchange	Q13677
+Q7673435	P452_industry	Q6504956
+Q7673435	P159_headquarters_location	Q3087440
+Q7673435	P159_headquarters_location	Q5083
+Q7673435	P159_headquarters_location	Q5083
+Q7673435	P112_founded_by	Q7143512
+Q7673435	P17_country	Q30
+Q7673435	P740_location_of_formation	Q5083
+Q7673435	P1454_legal_form	Q134161
+Q7673435	P1454_legal_form	Q57655560
+Q7673435	P366_has_use	Q6504956
+Q7673435	P1056_product_or_material_produced	Q3353185
+Q7673435	P1535_used_by	Q17068357
+Q334384	P361_part_of	Q2539
+Q334384	P31_instance_of	Q8366
+Q334384	P31_instance_of	Q1047113
+Q334384	P31_instance_of	Q2267705
+Q334384	P279_subclass_of	Q2539
+Q334384	P1535_used_by	Q29169143
+Q334384	P2579_studied_by	Q2539
+Q334384	P2283_uses	Q5282087
+Q334384	P910_topic's_main_category	Q30640394
+Q264164	P279_subclass_of	Q8366
+Q264164	P31_instance_of	Q66747126
+Q264164	P1552_has_quality	Q179976
+Q264164	P2579_studied_by	Q13636890
+Q846636	P279_subclass_of	Q477538
+Q846636	P279_subclass_of	Q80993
+Q846636	P31_instance_of	Q11862829
+Q846636	P31_instance_of	Q4671286
+Q846636	P1552_has_quality	Q635346
+Q2493	P279_subclass_of	Q6661985
+Q2493	P279_subclass_of	Q5034491
+Q2493	P910_topic's_main_category	Q6391615
+Q2493	P31_instance_of	Q500669
+Q2493	P31_instance_of	Q11862829
+Q2493	P31_instance_of	Q1047113
+Q2493	P31_instance_of	Q2267705
+Q2493	P2283_uses	Q188889
+Q2493	P2283_uses	Q8366
+Q2493	P366_has_use	Q194274
+Q2493	P366_has_use	Q118093
+Q80006	P31_instance_of	Q4671286
+Q80006	P31_instance_of	Q66747126
+Q80006	P279_subclass_of	Q1914636
+Q80006	P279_subclass_of	Q205961
+Q80006	P910_topic's_main_category	Q6752025
+Q80006	P361_part_of	Q21198
+Q80006	P361_part_of	Q638608
+Q80006	P1151_topic's_main_Wikimedia_portal	Q10729459
+Q80006	P3095_practiced_by	Q5482740
+Q80006	P3095_practiced_by	Q1709010
+Q80006	P1552_has_quality	Q9143
+Q80006	P1552_has_quality	Q188267
+Q80006	P5008_on_focus_list_of_Wikimedia_project	Q6173448
+Q80006	P1382_partially_coincident_with	Q638608
+Q180634	P910_topic's_main_category	Q7013140
+Q180634	P279_subclass_of	Q179310
+Q180634	P279_subclass_of	Q21198
+Q180634	P31_instance_of	Q1047113
+Q180634	P31_instance_of	Q2267705
+Q388	P822_mascot	Q131200
+Q388	P1151_topic's_main_Wikimedia_portal	Q8210921
+Q388	P279_subclass_of	Q14656
+Q388	P279_subclass_of	Q341
+Q388	P279_subclass_of	Q241317
+Q388	P138_named_after	Q11368
+Q388	P144_based_on	Q14579
+Q388	P910_topic's_main_category	Q8591663
+Q388	P437_distribution_format	Q269415
+Q388	P437_distribution_format	Q5293
+Q388	P437_distribution_format	Q7982
+Q388	P437_distribution_format	Q2144513
+Q388	P737_influenced_by	Q187906
+Q388	P277_programmed_in	Q15777
+Q388	P277_programmed_in	Q165436
+Q388	P277_programmed_in	Q575650
+Q388	P2184_history_of_topic	Q1517650
+Q388	P400_platform	Q858065
+Q388	P400_platform	Q182933
+Q388	P400_platform	Q272629
+Q388	P400_platform	Q16980
+Q388	P400_platform	Q527464
+Q388	P1889_different_from	Q14579
+Q388	P31_instance_of	Q170584
+Q388	P31_instance_of	Q15545584
+Q388	P31_instance_of	Q9135
+Q388	P170_creator	Q34253
+Q388	P859_sponsor	Q858851
+Q388	P2579_studied_by	Q21198
+Q206904	P135_movement	Q1076638
+Q206904	P31_instance_of	Q9143
+Q206904	P31_instance_of	Q12772052
+Q206904	P31_instance_of	Q20825628
+Q206904	P31_instance_of	Q341
+Q206904	P31_instance_of	Q13199995
+Q206904	P31_instance_of	Q1047113
+Q206904	P31_instance_of	Q2267705
+Q206904	P277_programmed_in	Q15777
+Q206904	P277_programmed_in	Q83303
+Q206904	P277_programmed_in	Q206904
+Q206904	P170_creator	Q7344712
+Q206904	P170_creator	Q7369420
+Q206904	P287_designed_by	Q7369420
+Q206904	P287_designed_by	Q7344712
+Q206904	P1072_readable_file_format	Q40672098
+Q206904	P1072_readable_file_format	Q105860462
+Q206904	P1072_readable_file_format	Q111520019
+Q206904	P1073_writable_file_format	Q40672098
+Q206904	P1073_writable_file_format	Q105860462
+Q206904	P1073_writable_file_format	Q111520019
+Q206904	P3966_programming_paradigm	Q193076
+Q206904	P3966_programming_paradigm	Q4795882
+Q206904	P3966_programming_paradigm	Q79872
+Q206904	P3966_programming_paradigm	Q1418502
+Q206904	P737_influenced_by	Q1283865
+Q206904	P737_influenced_by	Q849146
+Q206904	P737_influenced_by	Q187560
+Q206904	P737_influenced_by	Q3570412
+Q206904	P306_operating_system	Q3251801
+Q206904	P306_operating_system	Q58636917
+Q206904	P306_operating_system	Q14116
+Q206904	P4969_derivative_work	Q2888953
+Q206904	P4969_derivative_work	Q2086703
+Q206904	P366_has_use	Q5157340
+Q206904	P366_has_use	Q2374463
+Q206904	P7078_typing_discipline	Q1268978
+Q206904	P1889_different_from	Q9852
+Q206904	P1889_different_from	Q18665344
+Q206904	P1889_different_from	Q112162285
+Q206904	P6216_copyright_status	Q50423863
+Q206904	P126_maintained_by	Q111430684
+Q829546	P910_topic's_main_category	Q7012332
+Q829546	P279_subclass_of	Q8366
+Q829546	P279_subclass_of	Q1003030
+Q23793561	P31_instance_of	Q188860
+Q23793561	P31_instance_of	Q341
+Q23793561	P275_copyright_license	Q13785927
+Q23793561	P277_programmed_in	Q28865
+Q23793561	P277_programmed_in	Q2613697
+Q23793561	P277_programmed_in	Q2407
+Q23793561	P277_programmed_in	Q251
+Q23793561	P2992_software_quality_assurance	Q965769
+Q23793561	P2283_uses	Q831366
+Q23793561	P1557_manifestation_of	Q16766476
+Q23793561	P306_operating_system	Q388
+Q23793561	P6216_copyright_status	Q50423863
+Q104851	P910_topic's_main_category	Q7214525
+Q104851	P279_subclass_of	Q7397
+Q104851	P279_subclass_of	Q3966
+Q104851	P400_platform	Q2858615
+Q104851	P31_instance_of	Q17155032
+Q104851	P155_follows	Q3966
+Q104851	P156_followed_by	Q6470767
+Q208042	P1269_facet_of	Q12483
+Q208042	P279_subclass_of	Q12718609
+Q208042	P279_subclass_of	Q1988917
+Q208042	P2283_uses	Q30556303
+Q208042	P5125_Wikimedia_outline	Q7112712
+Q208042	P1424_topic's_main_template	Q19838870
+Q208042	P61_discoverer_or_inventor	Q191026
+Q208042	P138_named_after	Q55933668
+Q208042	P5008_on_focus_list_of_Wikimedia_project	Q6173448
+Q208042	P2737_union_of	Q23766486
+Q208042	P366_has_use	Q334384
+Q192776	P910_topic's_main_category	Q9246857
+Q192776	P279_subclass_of	Q11660
+Q192776	P279_subclass_of	Q2539
+Q192776	P279_subclass_of	Q55624999
+Q192776	P279_subclass_of	Q5282087
+Q192776	P527_has_part(s)	Q1036748
+Q192776	P527_has_part(s)	Q110857125
+Q192776	P527_has_part(s)	Q177058
+Q192776	P1889_different_from	Q43283
+Q192776	P1557_manifestation_of	Q43283
+Q192776	P2283_uses	Q4677469
+Q192776	P1269_facet_of	Q11660
+Q192776	P1269_facet_of	Q2539
+Q671298	P279_subclass_of	Q8366
+Q671298	P31_instance_of	Q28455561
+Q671298	P910_topic's_main_category	Q105311707
+Q192726	P279_subclass_of	Q166142
+Q192726	P279_subclass_of	Q676202
+Q192726	P279_subclass_of	Q241317
+Q192726	P910_topic's_main_category	Q7485141
+Q192726	P1269_facet_of	Q9135
+Q403574	P279_subclass_of	Q621184
+Q403574	P1889_different_from	Q17012245
+Q403574	P31_instance_of	Q11862829
+Q403574	P31_instance_of	Q1047113
+Q403574	P31_instance_of	Q2267705
+Q3257930	P279_subclass_of	Q1077784
+Q3257930	P279_subclass_of	Q2429814
+Q3257930	P910_topic's_main_category	Q6859388
+Q3257930	P366_has_use	Q189439
+Q3257930	P31_instance_of	Q17155032
+Q3257930	P1343_described_by_source	Q4355609
+Q3257930	P2737_union_of	Q23766486
+Q3257930	P1424_topic's_main_template	Q13398782
+Q3257930	P1269_facet_of	Q89021580
+Q3257930	P1269_facet_of	Q189439
+Q3257930	P1687_Wikidata_property	P8423
+Q15563228	P910_topic's_main_category	Q7012659
+Q15563228	P361_part_of	Q21198
+Q15563228	P3095_practiced_by	Q327353
+Q186055	P178_developer	Q34253
+Q186055	P178_developer	Q4495220
+Q186055	P178_developer	Q2896872
+Q186055	P275_copyright_license	Q10513450
+Q186055	P306_operating_system	Q3251801
+Q186055	P306_operating_system	Q1406
+Q186055	P306_operating_system	Q14656
+Q186055	P306_operating_system	Q174666
+Q186055	P31_instance_of	Q1186723
+Q186055	P31_instance_of	Q52990223
+Q186055	P31_instance_of	Q132364
+Q186055	P31_instance_of	Q1077784
+Q186055	P31_instance_of	Q341
+Q186055	P277_programmed_in	Q14663
+Q186055	P277_programmed_in	Q42478
+Q186055	P277_programmed_in	Q5288
+Q186055	P277_programmed_in	Q28865
+Q186055	P277_programmed_in	Q2407
+Q186055	P910_topic's_main_category	Q8479131
+Q186055	P126_maintained_by	Q4495220
+Q186055	P407_language_of_work_or_name	Q1860
+Q186055	P1072_readable_file_format	Q28757880
+Q186055	P1072_readable_file_format	Q53756539
+Q186055	P1072_readable_file_format	Q53756551
+Q186055	P1073_writable_file_format	Q28757880
+Q186055	P1073_writable_file_format	Q53756539
+Q186055	P1073_writable_file_format	Q53756551
+Q186055	P287_designed_by	Q34253
+Q186055	P1344_participant_in	Q54276825
+Q186055	P2283_uses	Q53756006
+Q186055	P2283_uses	Q63084966
+Q186055	P2283_uses	Q63085353
+Q186055	P2283_uses	Q63085165
+Q186055	P2283_uses	Q63085261
+Q186055	P2283_uses	Q5071951
+Q186055	P463_member_of	Q2896872
+Q186055	P4969_derivative_work	Q364
+Q186055	P4969_derivative_work	Q21091728
+Q186055	P4969_derivative_work	Q28714270
+Q186055	P1889_different_from	Q53755957
+Q186055	P1889_different_from	Q53755989
+Q186055	P1889_different_from	Q53756006
+Q186055	P1889_different_from	Q63084966
+Q186055	P1889_different_from	Q63085353
+Q186055	P1889_different_from	Q63085165
+Q186055	P366_has_use	Q189439
+Q186055	P2700_protocol	Q63084966
+Q186055	P2700_protocol	Q63085353
+Q186055	P2700_protocol	Q63085165
+Q186055	P2700_protocol	Q63085261
+Q186055	P737_influenced_by	Q467252
+Q186055	P737_influenced_by	Q878697
+Q186055	P6216_copyright_status	Q50423863
+Q5227393	P1269_facet_of	Q8513
+Q28470421	P31_instance_of	Q7397
+Q28470421	P275_copyright_license	Q334661
+Q28470421	P527_has_part(s)	Q45037095
+Q28470421	P527_has_part(s)	Q45038012
+Q28470421	P527_has_part(s)	Q17069496
+Q28470421	P407_language_of_work_or_name	Q1860
+Q28470421	P277_programmed_in	Q28865
+Q28470421	P2860_cites_work	Q49310003
+Q28470421	P2860_cites_work	Q46993707
+Q28470421	P178_developer	Q50495366
+Q28470421	P366_has_use	Q192776
+Q28470421	P6216_copyright_status	Q50423863
+Q28470421	P1547_depends_on_software	Q197520
+Q28470421	P1547_depends_on_software	Q197492
+Q28470421	P1547_depends_on_software	Q107380446
+Q48703087	P31_instance_of	Q341
+Q48703087	P31_instance_of	Q271680
+Q48703087	P178_developer	Q16927616
+Q48703087	P366_has_use	Q2539
+Q48703087	P275_copyright_license	Q13785927
+Q48703087	P6216_copyright_status	Q50423863
+Q23808	P279_subclass_of	Q1129239
+Q23808	P279_subclass_of	Q110558466
+Q23808	P366_has_use	Q52948
+Q23808	P1889_different_from	Q64830866
+Q23808	P1889_different_from	Q2384798
+Q141488	P1269_facet_of	Q121416
+Q141488	P910_topic's_main_category	Q8498946
+Q141488	P1889_different_from	Q182598
+Q141488	P1889_different_from	Q3519259
+Q141488	P1889_different_from	Q2479726
+Q141488	P1424_topic's_main_template	Q6600928
+Q141488	P460_said_to_be_the_same_as	Q15838309
+Q141488	P1552_has_quality	Q722659
+Q141488	P5008_on_focus_list_of_Wikimedia_project	Q6173448
+Q141488	P279_subclass_of	Q2642629
+Q141488	P527_has_part(s)	Q3297804
+Q141488	P527_has_part(s)	Q1304193
+Q60740481	P279_subclass_of	Q251212
+Q60740481	P31_instance_of	Q1047113
+Q60740481	P31_instance_of	Q2267705
+Q1066228	P461_opposite_of	Q879969
+Q1066228	P31_instance_of	Q96273743
+Q1066228	P138_named_after	Q997233
+Q1066228	P279_subclass_of	Q188522
+Q3050461	P400_platform	Q193321
+Q3050461	P31_instance_of	Q1235236
+Q3050461	P31_instance_of	Q56273712
+Q3050461	P31_instance_of	Q891723
+Q3050461	P277_programmed_in	Q251
+Q3050461	P275_copyright_license	Q13785927
+Q3050461	P275_copyright_license	Q58531884
+Q3050461	P275_copyright_license	Q104835286
+Q3050461	P178_developer	Q22074922
+Q3050461	P144_based_on	Q773196
+Q3050461	P306_operating_system	Q46094
+Q3050461	P306_operating_system	Q220182
+Q3050461	P306_operating_system	Q381
+Q3050461	P306_operating_system	Q11219
+Q3050461	P306_operating_system	Q1759786
+Q3050461	P306_operating_system	Q7715973
+Q3050461	P306_operating_system	Q16691
+Q3050461	P306_operating_system	Q207542
+Q3050461	P414_stock_exchange	Q13677
+Q29120	P178_developer	Q489709
+Q29120	P277_programmed_in	Q251
+Q29120	P306_operating_system	Q174666
+Q29120	P306_operating_system	Q14658
+Q29120	P275_copyright_license	Q13785927
+Q29120	P275_copyright_license	Q7603
+Q29120	P170_creator	Q5300398
+Q29120	P400_platform	Q193321
+Q29120	P910_topic's_main_category	Q7427918
+Q29120	P366_has_use	Q1103464
+Q29120	P366_has_use	Q180634
+Q29120	P8956_compatible_with	Q21711047
+Q29120	P6216_copyright_status	Q50423863
+Q1635410	P31_instance_of	Q21129801
+Q1635410	P31_instance_of	Q341
+Q1635410	P275_copyright_license	Q13785927
+Q1635410	P366_has_use	Q182557
+Q1635410	P366_has_use	Q30642
+Q1635410	P2860_cites_work	Q29052049
+Q1635410	P1343_described_by_source	Q30452988
+Q1635410	P1343_described_by_source	Q28193986
+Q1635410	P1547_depends_on_software	Q107370303
+Q1635410	P1547_depends_on_software	Q107381460
+Q1635410	P6216_copyright_status	Q50423863
+Q1635410	P178_developer	Q28194277
+Q1635410	P178_developer	Q30086013
+Q11917068	P1269_facet_of	Q82571
+Q11917068	P279_subclass_of	Q28874898
+Q11917068	P279_subclass_of	Q8366
+Q11917068	P2283_uses	Q1767080
+Q11917068	P1382_partially_coincident_with	Q194919
+Q1426863	P279_subclass_of	Q1356176
+Q1426863	P61_discoverer_or_inventor	Q72390208
+Q1426863	P2579_studied_by	Q131476
+Q907375	P910_topic's_main_category	Q8866889
+Q907375	P279_subclass_of	Q188522
+Q907375	P2354_has_list	Q1863837
+Q907375	P2283_uses	Q7705752
+Q907375	P31_instance_of	Q96273743
+Q1026367	P31_instance_of	Q29642950
+Q1026367	P31_instance_of	Q341
+Q1026367	P277_programmed_in	Q28865
+Q1026367	P277_programmed_in	Q15777
+Q1026367	P277_programmed_in	Q2407
+Q1026367	P277_programmed_in	Q975594
+Q1026367	P1343_described_by_source	Q28365500
+Q1026367	P170_creator	Q22277430
+Q1026367	P2860_cites_work	Q47014659
+Q1026367	P366_has_use	Q2539
+Q1026367	P306_operating_system	Q388
+Q1026367	P306_operating_system	Q1406
+Q1026367	P178_developer	Q22277430
+Q1026367	P178_developer	Q108118090
+Q1026367	P178_developer	Q28269682
+Q1026367	P178_developer	Q28366261
+Q1026367	P1547_depends_on_software	Q197520
+Q1026367	P1547_depends_on_software	Q197492
+Q1026367	P1547_depends_on_software	Q107381460
+Q1026367	P1547_depends_on_software	Q107381461
+Q1026367	P6216_copyright_status	Q50423863
+Q1026367	P166_award_received	Q110827069
+Q1026367	P8324_funder	Q21623039
+Q232661	P910_topic's_main_category	Q6303648
+Q232661	P1382_partially_coincident_with	Q128392
+Q232661	P279_subclass_of	Q128392
+Q232661	P2737_union_of	Q23766486
+Q1744628	P279_subclass_of	Q2539
+Q1744628	P279_subclass_of	Q3435924
+Q1744628	P910_topic's_main_category	Q8817189
+Q1744628	P1269_facet_of	Q2539
+Q1744628	P527_has_part(s)	Q5962346
+Q251212	P527_has_part(s)	Q2551624
+Q251212	P527_has_part(s)	Q379626
+Q251212	P527_has_part(s)	Q483639
+Q251212	P527_has_part(s)	Q62029351
+Q251212	P910_topic's_main_category	Q6465232
+Q251212	P31_instance_of	Q151885
+Q251212	P31_instance_of	Q11016
+Q251212	P31_instance_of	Q117356127
+Q251212	P31_instance_of	Q2267705
+Q251212	P2579_studied_by	Q97008347
+Q251212	P2579_studied_by	Q21198
+Q251212	P2283_uses	Q1067099
+Q251212	P279_subclass_of	Q11253473
+Q251212	P1269_facet_of	Q457396
+Q251212	P1889_different_from	Q115467851
+Q281472	P279_subclass_of	Q186152
+Q107675654	P366_has_use	Q844240
+Q184793	P910_topic's_main_category	Q5926373
+Q184793	P279_subclass_of	Q82604
+Q184793	P279_subclass_of	Q166142
+Q184793	P31_instance_of	Q1047113
+Q184793	P361_part_of	Q21198
+Q184793	P361_part_of	Q192521
+Q184793	P361_part_of	Q11023
+Q184793	P2737_union_of	Q23766486
+Q184793	P1889_different_from	Q188610
+Q184793	P1365_replaces	Q120470
+Q184793	P1365_replaces	Q1164918
+Q184793	P2283_uses	Q15548076
+Q223655	P279_subclass_of	Q175263
+Q223655	P910_topic's_main_category	Q7035718
+Q223655	P1889_different_from	Q272735
+Q223655	P144_based_on	Q272735
+Q223655	P31_instance_of	Q827335
+Q185612	P910_topic's_main_category	Q8647009
+Q185612	P1687_Wikidata_property	P1793
+Q185612	P1687_Wikidata_property	P4240
+Q185612	P1687_Wikidata_property	P8770
+Q185612	P1687_Wikidata_property	P8966
+Q185612	P279_subclass_of	Q1503724
+Q185612	P2283_uses	Q1132051
+Q185612	P2283_uses	Q11169
+Q185612	P2283_uses	Q190212
+Q185612	P2283_uses	Q12052378
+Q185612	P2283_uses	Q6265342
+Q467731	P31_instance_of	Q15548076
+Q467731	P31_instance_of	Q1054011
+Q467731	P31_instance_of	Q184793
+Q467731	P1072_readable_file_format	Q49414097
+Q467731	P1072_readable_file_format	Q49415204
+Q467731	P1072_readable_file_format	Q49415700
+Q467731	P1072_readable_file_format	Q49416323
+Q467731	P1072_readable_file_format	Q49416639
+Q467731	P1072_readable_file_format	Q1238229
+Q467731	P1072_readable_file_format	Q105850519
+Q467731	P1072_readable_file_format	Q105850516
+Q467731	P1072_readable_file_format	Q105849918
+Q467731	P1072_readable_file_format	Q105849921
+Q467731	P1072_readable_file_format	Q105850512
+Q467731	P1072_readable_file_format	Q105850508
+Q467731	P1072_readable_file_format	Q105850628
+Q467731	P1072_readable_file_format	Q105850481
+Q467731	P1072_readable_file_format	Q105850478
+Q467731	P1072_readable_file_format	Q105850321
+Q467731	P1072_readable_file_format	Q105850226
+Q467731	P1072_readable_file_format	Q105850053
+Q467731	P1072_readable_file_format	Q105850072
+Q467731	P1072_readable_file_format	Q105850048
+Q467731	P1072_readable_file_format	Q105849958
+Q467731	P1072_readable_file_format	Q105849892
+Q467731	P1072_readable_file_format	Q105849895
+Q467731	P1072_readable_file_format	Q105850179
+Q467731	P1072_readable_file_format	Q105849631
+Q467731	P1072_readable_file_format	Q105849630
+Q467731	P1072_readable_file_format	Q105849889
+Q467731	P1072_readable_file_format	Q105849742
+Q467731	P1072_readable_file_format	Q105849723
+Q467731	P1072_readable_file_format	Q105849721
+Q467731	P1072_readable_file_format	Q105849736
+Q467731	P1072_readable_file_format	Q105849597
+Q467731	P1072_readable_file_format	Q105850107
+Q467731	P1072_readable_file_format	Q105850495
+Q467731	P1072_readable_file_format	Q105850634
+Q467731	P1072_readable_file_format	Q105850575
+Q467731	P1072_readable_file_format	Q105849646
+Q467731	P1072_readable_file_format	Q105849677
+Q467731	P1072_readable_file_format	Q105849752
+Q467731	P1072_readable_file_format	Q105849724
+Q467731	P1072_readable_file_format	Q113495219
+Q467731	P275_copyright_license	Q3238057
+Q467731	P366_has_use	Q184793
+Q467731	P6216_copyright_status	Q50423863
+Q467731	P306_operating_system	Q11368
+Q467731	P306_operating_system	Q1406
+Q103701642	P279_subclass_of	Q6501338
+Q103701642	P1269_facet_of	Q2539
+Q103701642	P366_has_use	Q28324912
+Q103701642	P366_has_use	Q85810444
+Q103701642	P366_has_use	Q108281205
+Q103701642	P1557_manifestation_of	Q6501338
+Q4118434	P277_programmed_in	Q28865
+Q4118434	P366_has_use	Q336
+Q4118434	P366_has_use	Q128570
+Q4118434	P31_instance_of	Q188860
+Q175263	P279_subclass_of	Q494823
+Q175263	P279_subclass_of	Q494756
+Q175263	P279_subclass_of	Q6671777
+Q175263	P279_subclass_of	Q17176533
+Q175263	P361_part_of	Q21198
+Q175263	P910_topic's_main_category	Q7215292
+Q175263	P1424_topic's_main_template	Q10856233
+Q175263	P1424_topic's_main_template	Q10858194
+Q175263	P1963_properties_for_this_type	P575
+Q175263	P1963_properties_for_this_type	P3757
+Q175263	P1963_properties_for_this_type	P3755
+Q175263	P1963_properties_for_this_type	P3752
+Q175263	P1963_properties_for_this_type	P3754
+Q175263	P1343_described_by_source	Q47755251
+Q175263	P6104_maintained_by_WikiProject	Q6526225
+Q175263	P1889_different_from	Q190087
+Q175263	P31_instance_of	Q111972893
+Q175263	P5008_on_focus_list_of_Wikimedia_project	Q6173448
+Q1301371	P910_topic's_main_category	Q6200392
+Q1301371	P366_has_use	Q7126717
+Q1301371	P366_has_use	Q7126699
+Q1301371	P279_subclass_of	Q1900326
+Q1301371	P279_subclass_of	Q1068715
+Q1301371	P1299_depicted_by	Q7574076
+Q1301371	P138_named_after	Q1900326
+Q1301371	P138_named_after	Q68
+Q1301371	P2579_studied_by	Q10336440
+Q1301371	P527_has_part(s)	Q5747224
+Q1301371	P5008_on_focus_list_of_Wikimedia_project	Q6173448
+Q220644	P910_topic's_main_category	Q6187717
+Q220644	P279_subclass_of	Q846636
+Q220644	P31_instance_of	Q635346
+Q1152135	P361_part_of	Q2539
+Q1152135	P361_part_of	Q113127963
+Q1152135	P279_subclass_of	Q2539
+Q1152135	P279_subclass_of	Q111862379
+Q1152135	P461_opposite_of	Q334384
+Q1152135	P910_topic's_main_category	Q30640383
+Q1152135	P2579_studied_by	Q2539
+Q1152135	P1535_used_by	Q29169143
+Q1189053	P279_subclass_of	Q188522
+Q10322548	P170_creator	Q17237365
+Q10322548	P170_creator	Q4761343
+Q10322548	P361_part_of	Q251212
+Q10322548	P31_instance_of	Q15836568
+Q10322548	P1462_standards_body	Q1455952
+Q10322548	P5805_OSI_Model_layer_location	Q189768
+Q623818	P279_subclass_of	Q621673
+Q623818	P61_discoverer_or_inventor	Q3090592
+Q623818	P2579_studied_by	Q131476
+Q623818	P31_instance_of	Q175263
+Q2713292	P279_subclass_of	Q3240252
+Q189210	P910_topic's_main_category	Q7215409
+Q189210	P1269_facet_of	Q128751
+Q189210	P1269_facet_of	Q1371279
+Q189210	P1382_partially_coincident_with	Q1371279
+Q189210	P279_subclass_of	Q35127
+Q189210	P1552_has_quality	Q2555816
+Q189210	P31_instance_of	Q17155032
+Q189210	P31_instance_of	Q1047113
+Q189210	P31_instance_of	Q2267705
+Q622825	P910_topic's_main_category	Q8384546
+Q622825	P1269_facet_of	Q2539
+Q622825	P366_has_use	Q381060
+Q622825	P361_part_of	Q1988917
+Q622825	P279_subclass_of	Q172491
+Q622825	P279_subclass_of	Q1988917
+Q622825	P2283_uses	Q28058114
+Q622825	P31_instance_of	Q11862829
+Q622825	P31_instance_of	Q1047113
+Q622825	P31_instance_of	Q2267705
+Q3751111	P279_subclass_of	Q166142
+Q3751111	P1424_topic's_main_template	Q22744240
+Q3751111	P31_instance_of	Q17155032
+Q104659521	P31_instance_of	Q11862829
+Q104659521	P31_instance_of	Q268592
+Q104659521	P31_instance_of	Q4671286
+Q104659521	P279_subclass_of	Q21198
+Q104659521	P3095_practiced_by	Q104659813
+Q105606338	P279_subclass_of	Q11660
+Q55080113	P279_subclass_of	Q166142
+Q376937	P361_part_of	Q80993
+Q376937	P279_subclass_of	Q682496
+Q1186723	P279_subclass_of	Q3257930
+Q1186723	P279_subclass_of	Q180634
+Q1186723	P279_subclass_of	Q189439
+Q1186723	P461_opposite_of	Q55680343
+Q189224	P279_subclass_of	Q9143
+Q879969	P461_opposite_of	Q1066228
+Q879969	P279_subclass_of	Q188522
+Q19399674	P31_instance_of	Q1330336
+Q19399674	P31_instance_of	Q188860
+Q19399674	P31_instance_of	Q783866
+Q19399674	P306_operating_system	Q174666
+Q19399674	P277_programmed_in	Q2005
+Q19399674	P275_copyright_license	Q334661
+Q19399674	P2992_software_quality_assurance	Q965769
+Q19399674	P941_inspired_by	Q17128269
+Q19399674	P178_developer	Q380
+Q19399674	P178_developer	Q64845926
+Q19399674	P178_developer	Q108496793
+Q19399674	P178_developer	Q98363379
+Q19399674	P178_developer	Q7279338
+Q19399674	P178_developer	Q108498206
+Q19399674	P1547_depends_on_software	Q95955024
+Q19399674	P6216_copyright_status	Q50423863
+Q19399674	P112_founded_by	Q355
+Q19399674	P170_creator	Q380
+Q19399674	P366_has_use	Q189210
+Q177929	P31_instance_of	Q827335
+Q177929	P1343_described_by_source	Q47755251
+Q177929	P910_topic's_main_category	Q32767144
+Q177929	P361_part_of	Q12017866
+Q177929	P1889_different_from	Q759899
+Q177929	P1889_different_from	Q7595944
+Q80585	P910_topic's_main_category	Q8272677
+Q80585	P31_instance_of	Q827335
+Q80585	P279_subclass_of	Q175263
+Q80585	P1889_different_from	Q1053064
+Q113660857	P31_instance_of	Q96369982
+Q113660857	P31_instance_of	Q114617315
+Q113660857	P31_instance_of	Q119018971
+Q113660857	P366_has_use	Q113403137
+Q113660857	P6216_copyright_status	Q50423863
+Q113660857	P1269_facet_of	Q65066631
+Q113660857	P2283_uses	Q197536
+Q113660857	P277_programmed_in	Q28865
+Q113660857	P275_copyright_license	Q114391621
+Q865760	P1687_Wikidata_property	P7078
+Q865760	P1269_facet_of	Q9143
+Q865760	P361_part_of	Q9143
+Q865760	P279_subclass_of	Q649732
+Q865760	P2283_uses	Q190087
+Q865760	P2579_studied_by	Q1056428
+Q165194	P279_subclass_of	Q23808
+Q165194	P279_subclass_of	Q241317
+Q165194	P910_topic's_main_category	Q8257707
+Q165194	P101_field_of_work	Q21198
+Q165194	P101_field_of_work	Q80006
+Q165194	P101_field_of_work	Q638608
+Q165194	P1535_used_by	Q5482740
+Q165194	P366_has_use	Q16277542
+Q165194	P366_has_use	Q1305241
+Q165194	P1269_facet_of	Q21198
+Q165194	P31_instance_of	Q1047113
+Q165194	P31_instance_of	Q2267705
+Q420904	P910_topic's_main_category	Q8747641
+Q420904	P279_subclass_of	Q1361088
+Q420904	P279_subclass_of	Q188804
+Q420904	P279_subclass_of	Q8366
+Q583461	P279_subclass_of	Q8366
+Q583461	P910_topic's_main_category	Q7216427
+Q583461	P31_instance_of	Q28455561
+Q583461	P1889_different_from	Q1981968
+Q11660	P361_part_of	Q21198
+Q11660	P361_part_of	Q147638
+Q11660	P910_topic's_main_category	Q558331
+Q11660	P910_topic's_main_category	Q10086859
+Q11660	P279_subclass_of	Q21198
+Q11660	P279_subclass_of	Q120208
+Q11660	P5008_on_focus_list_of_Wikimedia_project	Q6173448
+Q11660	P5125_Wikimedia_outline	Q7112560
+Q11660	P527_has_part(s)	Q5514059
+Q11660	P527_has_part(s)	Q203790
+Q11660	P527_has_part(s)	Q105604957
+Q11660	P527_has_part(s)	Q2539
+Q11660	P1889_different_from	Q2539
+Q11660	P1889_different_from	Q1362688
+Q11660	P3095_practiced_by	Q15976092
+Q11660	P31_instance_of	Q11862829
+Q11660	P31_instance_of	Q268592
+Q11660	P31_instance_of	Q112057532
+Q11660	P31_instance_of	Q1047113
+Q11660	P31_instance_of	Q2267705
+Q11660	P1552_has_quality	Q96482266
+Q11660	P1552_has_quality	Q14623823
+Q11660	P1343_described_by_source	Q108928644
+Q11660	P6104_maintained_by_WikiProject	Q113171054
+Q11660	P366_has_use	Q4182287
+Q11660	P366_has_use	Q554950
+Q11660	P366_has_use	Q1078276
+Q11660	P366_has_use	Q741490
+Q11660	P366_has_use	Q108704339
+Q11660	P3712_has_goal	Q2555318
+Q11660	P3712_has_goal	Q30642
+Q11660	P3712_has_goal	Q6723726
+Q11660	P3712_has_goal	Q366872
+Q11660	P3712_has_goal	Q1185804
+Q11660	P3712_has_goal	Q2264109
+Q11660	P3712_has_goal	Q3478658
+Q11660	P737_influenced_by	Q9418
+Q11660	P737_influenced_by	Q8162
+Q11660	P793_significant_event	Q23016184
+Q11660	P793_significant_event	Q2453355
+Q926821	P31_instance_of	Q15548076
+Q926821	P31_instance_of	Q229371
+Q926821	P178_developer	Q1760641
+Q926821	P306_operating_system	Q1406
+Q926821	P1072_readable_file_format	Q1238229
+Q926821	P1072_readable_file_format	Q105864520
+Q926821	P1072_readable_file_format	Q112821452
+Q926821	P366_has_use	Q184793
+Q926821	P1073_writable_file_format	Q105864520
+Q926821	P1073_writable_file_format	Q105864297
+Q926821	P1073_writable_file_format	Q105866403
+Q926821	P1073_writable_file_format	Q112821452
+Q858810	P910_topic's_main_category	Q8299520
+Q858810	P31_instance_of	Q82550
+Q858810	P31_instance_of	Q11862829
+Q858810	P31_instance_of	Q1047113
+Q858810	P31_instance_of	Q2267705
+Q858810	P1269_facet_of	Q42848
+Q858810	P5008_on_focus_list_of_Wikimedia_project	Q54439832
+Q858810	P279_subclass_of	Q42848
+Q858810	P2579_studied_by	Q180634
+Q858810	P2283_uses	Q989016
+Q98844843	P279_subclass_of	Q8366
+Q98844843	P2579_studied_by	Q128570
+Q690265	P279_subclass_of	Q186152
+Q690265	P279_subclass_of	Q496946
+Q690265	P1889_different_from	Q278425
+Q60165325	P31_instance_of	Q7397
+Q60165325	P31_instance_of	Q483639
+Q60165325	P31_instance_of	Q1668024
+Q60165325	P127_owned_by	Q95
+Q60165325	P361_part_of	Q17054505
+Q60165325	P361_part_of	Q56274981
+Q60165325	P366_has_use	Q6504956
+Q60165325	P366_has_use	Q4343952
+Q6504956	P279_subclass_of	Q451553
+Q6504956	P2283_uses	Q5597177
+Q6504956	P910_topic's_main_category	Q55337796
+Q6504956	P361_part_of	Q112936830
+Q6504956	P3342_significant_person	Q738532
+Q6504956	P3342_significant_person	Q37103
+Q6504956	P3342_significant_person	Q1065131
+Q6504956	P3342_significant_person	Q382207
+Q6504956	P3342_significant_person	Q1293908
+Q6504956	P460_said_to_be_the_same_as	Q3427422
+Q6504956	P1382_partially_coincident_with	Q10609775
+Q2631895	P910_topic's_main_category	Q8279954
+Q2631895	P366_has_use	Q2271896
+Q2631895	P366_has_use	Q309100
+Q2631895	P31_instance_of	Q4485156
+Q2631895	P279_subclass_of	Q11660
+Q1064412	P366_has_use	Q1952502
+Q1064412	P1687_Wikidata_property	P7443
+Q1064412	P279_subclass_of	Q232661
+Q1064412	P31_instance_of	Q110224587
+Q1132755	P61_discoverer_or_inventor	Q6281486
+Q1132755	P279_subclass_of	Q30556303
+Q1132755	P279_subclass_of	Q1501882
+Q1132755	P279_subclass_of	Q5282087
+Q1132755	P1535_used_by	Q30555529
+Q1132755	P910_topic's_main_category	Q30826373
+Q1132755	P2283_uses	Q1052379
+Q1132755	P31_instance_of	Q120281892
+Q7388648	P31_instance_of	Q341
+Q7388648	P366_has_use	Q336
+Q7388648	P366_has_use	Q128570
+Q7388648	P1072_readable_file_format	Q25339818
+Q7388648	P1072_readable_file_format	Q1593782
+Q7388648	P1072_readable_file_format	Q7915770
+Q7388648	P1073_writable_file_format	Q25339818
+Q7388648	P306_operating_system	Q14656
+Q7388648	P277_programmed_in	Q15777
+Q7388648	P6216_copyright_status	Q50423863
+Q22673982	P178_developer	Q95
+Q22673982	P366_has_use	Q336
+Q22673982	P366_has_use	Q30642
+Q22673982	P279_subclass_of	Q18395344
+Q22673982	P2283_uses	Q461183
+Q22673982	P2283_uses	Q110509808
+Q22673982	P1568_definition_domain	Q461183
+Q22673982	P31_instance_of	Q1047113
+Q22673982	P31_instance_of	Q2267705
+Q1254373	P910_topic's_main_category	Q5653416
+Q1254373	P31_instance_of	Q12015335
+Q1254373	P31_instance_of	Q4671286
+Q1254373	P1889_different_from	Q579488
+Q1254373	P2283_uses	Q80993
+Q245748	P31_instance_of	Q8366
+Q245748	P61_discoverer_or_inventor	Q931461
+Q245748	P1343_described_by_source	Q115707260
+Q245748	P1343_described_by_source	Q22670878
+Q245748	P361_part_of	Q245652
+Q245748	P2283_uses	Q831366
+Q245748	P2283_uses	Q16766476
+Q1475717	P279_subclass_of	Q7397
+Q1475717	P279_subclass_of	Q30671979
+Q1475717	P805_statement_is_subject_of	Q6571566
+Q1475717	P31_instance_of	Q613918
+Q1475717	P361_part_of	Q950250
+Q1475717	P1269_facet_of	Q3952330
+Q1475717	P366_has_use	Q950250
+Q1475717	P366_has_use	Q22073956
+Q18395344	P279_subclass_of	Q980509
+Q18395344	P31_instance_of	Q2695280
+Q18395344	P31_instance_of	Q11862829
+Q18395344	P31_instance_of	Q1047113
+Q18395344	P31_instance_of	Q2267705
+Q18395344	P2283_uses	Q13471665
+Q18395344	P366_has_use	Q30642
+Q380172	P910_topic's_main_category	Q8300345
+Q380172	P279_subclass_of	Q63721528
+Q380172	P31_instance_of	Q827335
+Q380172	P2670_has_part(s)_of_the_class	Q1304193
+Q380172	P2670_has_part(s)_of_the_class	Q3297804
+Q380172	P2579_studied_by	Q131476
+Q380172	P156_followed_by	Q7263850
+Q380172	P1889_different_from	Q677051
+Q4417999	P279_subclass_of	Q131476
+Q1277447	P1343_described_by_source	Q22670878
+Q1277447	P279_subclass_of	Q28058114
+Q1277447	P279_subclass_of	Q622825
+Q1277447	P1552_has_quality	Q188619
+Q116777014	P527_has_part(s)	Q116937684
+Q116777014	P527_has_part(s)	Q115564437
+Q116777014	P527_has_part(s)	Q112702082
+Q116777014	P527_has_part(s)	Q116709136
+Q116777014	P527_has_part(s)	Q95726727
+Q116777014	P527_has_part(s)	Q117791942
+Q116777014	P527_has_part(s)	Q116793893
+Q116777014	P527_has_part(s)	Q105078662
+Q116777014	P527_has_part(s)	Q108582200
+Q116777014	P527_has_part(s)	Q118176939
+Q116777014	P5008_on_focus_list_of_Wikimedia_project	Q117245199
+Q116777014	P279_subclass_of	Q115305900
+Q116777014	P279_subclass_of	Q2539
+Q116777014	P279_subclass_of	Q11660
+Q149972	is preceded by	Q3968
+Q3968	is preceded by	Q11205
+Q46441	is preceded by	Q8811
+Q12483	is preceded by	Q5862903
+Q234881	is preceded by	Q149972
+Q8366	is preceded by	Q175263
+Q12482	is preceded by	Q8078
+Q850	is preceded by	Q47607
+Q11214	is preceded by	Q149972
+Q842433	is preceded by	Q149972
+Q3522973	is preceded by	Q149972
+Q2089905	is preceded by	Q149972
+Q208163	is preceded by	Q149972
+Q31479975	is preceded by	Q208163
+Q173142	is preceded by	Q82571
+Q208163	is preceded by	Q5862903
+Q190169	is preceded by	Q11456
+Q190169	is preceded by	Q2089905
+Q190169	is preceded by	Q2974105
+Q11456	is preceded by	Q2974105
+Q11456	is preceded by	Q2089905
+Q1063837	is preceded by	Q2974105
+Q1156793	is preceded by	Q80006
+Q14514122	is preceded by	Q12482
+Q39680	is preceded by	Q149972
+Q215819	is preceded by	Q47607
+Q5377869	is preceded by	Q149972
+Q5377869	is preceded by	Q82571
+Q13425103	is preceded by	Q208163
+Q112889106	is preceded by	Q47607
+Q192776	is preceded by	Q82571
+Q192776	is preceded by	Q149972
+Q184609	is preceded by	Q8078
+Q184609	is preceded by	Q80006
+Q209455	is preceded by	Q2974105
+Q1054772	is preceded by	Q149972
+Q1054772	is preceded by	Q959968
+Q2348	is preceded by	Q2035437
+Q7451136	is preceded by	Q207011
+Q650553	is preceded by	Q193040
+Q185524	is preceded by	Q47607
+Q105514255	is preceded by	Q2407
+Q82571	is preceded by	Q3968
+Q845566	is preceded by	Q2407
+Q282453	is preceded by	Q82571
+Q11023	is preceded by	Q3968
+Q14579	is preceded by	Q388
+Q14579	is preceded by	Q15777
+Q910404	is preceded by	Q395
+Q3478658	is preceded by	Q8366
+Q30642	is preceded by	Q33742
+Q8366	is preceded by	Q76592
+Q1936256	is preceded by	Q11368
+Q910404	is preceded by	Q76592
+Q176640	is preceded by	Q395
+Q21198	is preceded by	Q12479
+Q8513	is preceded by	Q494756
+Q2539	is preceded by	Q131476
+Q865760	is preceded by	Q9143
+Q877977	is preceded by	Q9143
+Q80006	is preceded by	Q8078
+Q180634	is preceded by	Q9135
+Q835922	is preceded by	Q373045
+Q8366	is preceded by	Q395
+Q1058754	is preceded by	Q215206
+Q5862903	is preceded by	Q3968
+Q1936256	is preceded by	Q80006
+Q782543	is preceded by	Q68
+Q1138496	is preceded by	Q8366
+Q908207	is preceded by	Q8366
+Q638608	is preceded by	Q857102
+Q1002535	is preceded by	Q874709
+Q205084	is preceded by	Q723897
+Q938438	is preceded by	Q42848
+Q534112	is preceded by	Q176645
+Q192903	is preceded by	Q173156
+Q172491	is preceded by	Q11660
+Q671298	is preceded by	Q8366
+Q3510521	is preceded by	Q395
+Q1025017	is preceded by	Q764810
+Q194152	is preceded by	Q176452
+Q14001	is preceded by	Q212108
+Q80998	is preceded by	Q6030997
+Q755662	is preceded by	Q8513
+Q47506	is preceded by	Q173212
+Q3306359	is preceded by	Q8513
+Q3968	is preceded by	Q395
+Q677051	is preceded by	Q175263
+Q184316	is preceded by	Q200125
+Q1301371	is preceded by	Q21198
+Q1414548	is preceded by	Q9135
+Q8366	is preceded by	Q2321565
+Q555032	is preceded by	Q213092
+Q80993	is preceded by	Q80006
+Q232207	is preceded by	Q8366
+Q207434	is preceded by	Q839721
+Q188267	is preceded by	Q21198
+Q80006	is preceded by	Q21198
+Q7600677	is preceded by	Q21198
+Q874709	is preceded by	Q21198
+Q1002535	is preceded by	Q8366
+Q844240	is preceded by	Q8087
+Q1138496	is preceded by	Q80006
+Q1143367	is preceded by	Q176623
+Q8366	is preceded by	Q8078
+Q184754	is preceded by	Q80006
+Q192588	is preceded by	Q755662
+Q845739	is preceded by	Q80006
+Q2539	is preceded by	Q205084
+Q44337	is preceded by	Q395
+Q580427	is preceded by	Q80006
+Q369472	is preceded by	Q21198
+Q2539	is preceded by	Q938438
+Q1426863	is preceded by	Q374040
+Q568742	is preceded by	Q8366
+Q333464	is preceded by	Q5862903
+Q9143	is preceded by	Q175263
+Q76592	is preceded by	Q272404
+Q5082128	is preceded by	Q68
+Q374195	is preceded by	Q27058
+Q369472	is preceded by	Q8366
+Q1890437	is preceded by	Q47506
+Q192161	is preceded by	Q8078
+Q302088	is preceded by	Q2539
+Q8789	is preceded by	Q21198
+Q830687	is preceded by	Q2539
+Q380679	is preceded by	Q8366
+Q3478658	is preceded by	Q395
+Q176737	is preceded by	Q170058
+Q2539	is preceded by	Q117801
+Q34010	is preceded by	Q80006
+Q224055	is preceded by	Q21198
+Q176953	is preceded by	Q7600677
+Q80993	is preceded by	Q205084
+Q188267	is preceded by	Q9143
+Q205084	is preceded by	Q3435924
+Q76592	is preceded by	Q395
+Q860755	is preceded by	Q21198
+Q180634	is preceded by	Q1301371
+Q34010	is preceded by	Q193076
+Q190087	is preceded by	Q21198
+Q723897	is preceded by	Q8366
+Q8366	is preceded by	Q21198
+Q21198	is preceded by	Q833585
+Q1034415	is preceded by	Q9143
+Q6453666	is preceded by	Q1034415
+Q7600677	is preceded by	Q1027879
+Q844240	is preceded by	Q333464
+Q232661	is preceded by	Q179310
+Q30642	is preceded by	Q1152135
+Q2715623	is preceded by	Q131476
+Q210832	is preceded by	Q42848
+Q11660	is preceded by	Q11216
+Q638608	is preceded by	Q175263
+Q132364	is preceded by	Q8366
+Q1074173	is preceded by	Q184609
+Q8366	is preceded by	Q178377
+Q131222	is preceded by	Q5862903
+Q1143367	is preceded by	Q42848
+Q676835	is preceded by	Q272404
+Q79798	is preceded by	Q8366
+Q205084	is preceded by	Q12503
+Q9143	is preceded by	Q68
+Q200694	is preceded by	Q8078
+Q9820	is preceded by	Q68
+Q1034415	is preceded by	Q80006
+Q194152	is preceded by	Q184754
+Q835922	is preceded by	Q185612
+Q3510521	is preceded by	Q2526135
+Q172491	is preceded by	Q42848
+Q170978	is preceded by	Q333464
+Q8366	is preceded by	Q2878974
+Q176769	is preceded by	Q380679
+Q7600677	is preceded by	Q68
+Q17995793	is preceded by	Q2878974
+Q132364	is preceded by	Q11024
+Q141495	is preceded by	Q82571
+Q172491	is preceded by	Q8513
+Q2878974	is preceded by	Q12525525
+Q2914952	is preceded by	Q8513
+Q251	is preceded by	Q80006
+Q132364	is preceded by	Q1058791
+Q8789	is preceded by	Q11538
+Q1332643	is preceded by	Q465274
+Q9492	is preceded by	Q395
+Q740970	is preceded by	Q8366
+Q79872	is preceded by	Q827335
+Q141495	is preceded by	Q8366
+Q192588	is preceded by	Q840540
+Q184754	is preceded by	Q175263
+Q1414548	is preceded by	Q12525525
+Q205692	is preceded by	Q200125
+Q192903	is preceded by	Q68
+Q176645	is preceded by	Q176623
+Q3510521	is preceded by	Q21198
+Q431667	is preceded by	Q178377
+Q938438	is preceded by	Q176623
+Q1401416	is preceded by	Q874709
+Q14001	is preceded by	Q3510521
+Q192588	is preceded by	Q192588
+Q1325106	is preceded by	Q165436
+Q193040	is preceded by	Q9135
+Q128392	is preceded by	Q68
+Q208163	is preceded by	Q9492
+Q1503724	is preceded by	Q193076
+Q1376021	is preceded by	Q200125
+Q264164	is preceded by	Q8366
+Q79872	is preceded by	Q21198
+Q845739	is preceded by	Q9143
+Q874709	is preceded by	Q8366
+Q44455	is preceded by	Q486902
+Q7600677	is preceded by	Q478798
+Q1401416	is preceded by	Q395
+Q192161	is preceded by	Q184754
+Q192588	is preceded by	Q8513
+Q2393193	is preceded by	Q21198
+Q910404	is preceded by	Q131476
+Q192588	is preceded by	Q21198
+Q8366	is preceded by	Q12525525
+Q21198	is preceded by	Q68
+Q163310	is preceded by	Q12525525
+Q1143367	is preceded by	Q938438
+Q740970	is preceded by	Q395
+Q188267	is preceded by	Q175263
+Q1301371	is preceded by	Q42848
+Q9492	is preceded by	Q13649246
+Q2916098	is preceded by	Q170978
+Q333464	is preceded by	Q8366
+Q628036	is preceded by	Q21198
+Q187787	is preceded by	Q8366
+Q628036	is preceded by	Q163310
+Q2916098	is preceded by	Q366872
+Q47607	is preceded by	Q8513
+Q28865	is preceded by	Q79872
+Q149972	is preceded by	Q3968
+Q80993	is preceded by	Q68
+Q186290	is preceded by	Q176623
+Q272404	is preceded by	Q395
+Q47607	is preceded by	Q21198
+Q1192422	is preceded by	Q5300
+Q193351	is preceded by	Q175263
+Q34010	is preceded by	Q9143
+Q80993	is preceded by	Q21198
+Q5482740	is preceded by	Q9143
+Q187631	is preceded by	Q11216
+Q176452	is preceded by	Q21198
+Q431667	is preceded by	Q4055684
+Q628036	is preceded by	Q205084
+Q7600677	is preceded by	Q8366
+Q1143367	is preceded by	Q2539
+Q176645	is preceded by	Q200125
+Q835922	is preceded by	Q176452
+Q2068418	is preceded by	Q11216
+Q183484	is preceded by	Q232661
+Q47506	is preceded by	Q185612
+Q336038	is preceded by	Q11024
+Q677051	is preceded by	Q21198
+Q205084	is preceded by	Q833585
+Q6030997	is preceded by	Q189900
+Q6368	is preceded by	Q68
+Q11538	is preceded by	Q395
+Q205084	is preceded by	Q21198
+Q47506	is preceded by	Q21198
+Q352090	is preceded by	Q173212
+Q671298	is preceded by	Q8366
+Q80006	is preceded by	Q68
+Q79872	is preceded by	Q181156
+Q583461	is preceded by	Q205084
+Q205084	is preceded by	Q8366
+Q43260	is preceded by	Q12503
+Q374040	is preceded by	Q8366
+Q79872	is preceded by	Q216601
+Q166142	is preceded by	Q68
+Q374040	is preceded by	Q185612
+Q723897	is preceded by	Q395
+Q55624999	is preceded by	Q2539
+Q194152	is preceded by	Q175263
+Q333464	is preceded by	Q163310
+Q7135231	is preceded by	Q190087
+Q2068418	is preceded by	Q1332643
+Q251	is preceded by	Q47506
+Q2914952	is preceded by	Q8366
+Q1569697	is preceded by	Q21198
+Q79798	is preceded by	Q11660
+Q194152	is preceded by	Q729271
+Q2539	is preceded by	Q11660
+Q500716	is preceded by	Q163310
+Q131476	is preceded by	Q363874
+Q583461	is preceded by	Q176623
+Q131222	is preceded by	Q327069
+Q1437428	is preceded by	Q9143
+Q207440	is preceded by	Q246064
+Q216601	is preceded by	Q21198
+Q175263	is preceded by	Q21198
+Q9135	is preceded by	Q68
+Q212108	is preceded by	Q189900
+Q623276	is preceded by	Q9135
+Q193076	is preceded by	Q21198
+Q722192	is preceded by	Q9135
+Q132874	is preceded by	Q1034415
+Q3435924	is preceded by	Q21198
+Q1199743	is preceded by	Q141495
+Q378859	is preceded by	Q9492
+Q251	is preceded by	Q1034415
+Q2539	is preceded by	Q68
+Q2165951	is preceded by	Q7600677
+Q1301371	is preceded by	Q494756
+Q908207	is preceded by	Q205084
+Q2914952	is preceded by	Q21198
+Q28865	is preceded by	Q68
+Q47506	is preceded by	Q9143
+Q333464	is preceded by	Q76592
+Q251	is preceded by	Q175263
+Q80993	is preceded by	Q175263
+Q1087987	is preceded by	Q8366
+Q1061656	is preceded by	Q47146
+Q4182287	is preceded by	Q8366
+Q7397	is preceded by	Q9135
+Q176953	is preceded by	Q1191981
+Q9135	is preceded by	Q179310
+Q573952	is preceded by	Q9143
+Q8366	is preceded by	Q224055
+Q9143	is preceded by	Q818888
+Q2916098	is preceded by	Q11012
+Q11216	is preceded by	Q395
+Q189436	is preceded by	Q21198
+Q830687	is preceded by	Q11660
+Q1050404	is preceded by	Q44337
+Q2271421	is preceded by	Q302088
+Q1070689	is preceded by	Q80006
+Q844240	is preceded by	Q80006
+Q858810	is preceded by	Q21198
+Q8513	is preceded by	Q8513
+Q3968	is preceded by	Q11205
+Q5300	is preceded by	Q68
+Q1087987	is preceded by	Q21198
+Q8789	is preceded by	Q3510521
+Q897511	is preceded by	Q395
+Q369472	is preceded by	Q80006
+Q333464	is preceded by	Q205084
+Q81414	is preceded by	Q68
+Q671298	is preceded by	Q179976
+Q21198	is preceded by	Q121416
+Q638608	is preceded by	Q79872
+Q2271421	is preceded by	Q30642
+Q187432	is preceded by	Q80006
+Q751443	is preceded by	Q818888
+Q856741	is preceded by	Q200125
+Q192161	is preceded by	Q121416
+Q176769	is preceded by	Q5862903
+Q3240252	is preceded by	Q9143
+Q1123036	is preceded by	Q9135
+Q1049878	is preceded by	Q755662
+Q193040	is preceded by	Q5297
+Q74304	is preceded by	Q11216
+Q232207	is preceded by	Q80091
+Q205084	is preceded by	Q818888
+Q180634	is preceded by	Q3435924
+Q176769	is preceded by	Q11660
+Q2914952	is preceded by	Q333464
+Q874709	is preceded by	Q117801
+Q176737	is preceded by	Q176640
+Q856741	is preceded by	Q363874
+Q179976	is preceded by	Q8366
+Q619942	is preceded by	Q7600677
+Q762268	is preceded by	Q80006
+Q202843	is preceded by	Q8366
+Q857102	is preceded by	Q9143
+Q275596	is preceded by	Q868299
+Q202400	is preceded by	Q9135
+Q68	is preceded by	Q11205
+Q1099110	is preceded by	Q42848
+Q1152135	is preceded by	Q2539
+Q194152	is preceded by	Q8366
+Q9143	is preceded by	Q214526
+Q207440	is preceded by	Q494756
+Q2835898	is preceded by	Q8366
+Q1579914	is preceded by	Q193076
+Q80998	is preceded by	Q989632
+Q176452	is preceded by	Q844718
+Q333464	is preceded by	Q117801
+Q2269096	is preceded by	Q621751
+Q211496	is preceded by	Q21198
+Q1049878	is preceded by	Q8513
+Q205084	is preceded by	Q2878974
+Q1045706	is preceded by	Q555032
+Q131476	is preceded by	Q395
+Q2651576	is preceded by	Q12525525
+Q161410	is preceded by	Q1301371
+Q17995793	is preceded by	Q21198
+Q333464	is preceded by	Q752718
+Q132874	is preceded by	Q9143
+Q176737	is preceded by	Q1363085
+Q3510521	is preceded by	Q68
+Q193076	is preceded by	Q179976
+Q3478658	is preceded by	Q8078
+Q2539	is preceded by	Q9492
+Q7832483	is preceded by	Q8789
+Q8789	is preceded by	Q395
+Q186290	is preceded by	Q200125
+Q380679	is preceded by	Q21198
+Q352090	is preceded by	Q68
+Q302088	is preceded by	Q21198
+Q82571	is preceded by	Q395
+Q192903	is preceded by	Q76505
+Q189436	is preceded by	Q2539
+Q8513	is preceded by	Q42848
+Q44455	is preceded by	Q5862903
+Q80006	is preceded by	Q8366
+Q944	is preceded by	Q176640
+Q2462783	is preceded by	Q9492
+Q55624999	is preceded by	Q8366
+Q868299	is preceded by	Q9143
+Q216861	is preceded by	Q80091
+Q752532	is preceded by	Q176452
+Q483639	is preceded by	Q1301371
+Q251	is preceded by	Q68
+Q28865	is preceded by	Q877977
+Q1301371	is preceded by	Q132364
+Q2715623	is preceded by	Q363874
+Q141495	is preceded by	Q12503
+Q79872	is preceded by	Q190087
+Q831672	is preceded by	Q395
+Q844240	is preceded by	Q378859
+Q752532	is preceded by	Q818888
+Q11012	is preceded by	Q12525525
+Q8789	is preceded by	Q12479
+Q2005	is preceded by	Q9143
+Q621751	is preceded by	Q8366
+Q177571	is preceded by	Q938438
+Q47506	is preceded by	Q165436
+Q857102	is preceded by	Q251
+Q2308807	is preceded by	Q9135
+Q622849	is preceded by	Q818888
+Q1072174	is preceded by	Q44337
+Q165436	is preceded by	Q37437
+Q215206	is preceded by	Q8366
+Q504843	is preceded by	Q131476
+Q1045706	is preceded by	Q173212
+Q1890437	is preceded by	Q21198
+Q944	is preceded by	Q170058
+Q2145211	is preceded by	Q11216
+Q844240	is preceded by	Q8366
+Q374195	is preceded by	Q11216
+Q3240252	is preceded by	Q827335
+Q223335	is preceded by	Q9143
+Q583461	is preceded by	Q1141518
+Q583461	is preceded by	Q8366
+Q47607	is preceded by	Q9143
+Q5482740	is preceded by	Q80006
+Q5752075	is preceded by	Q8366
+Q68	is preceded by	Q173156
+Q220543	is preceded by	Q186152
+Q8513	is preceded by	Q8513
+Q897511	is preceded by	Q8789
+Q14001	is preceded by	Q189900
+Q11012	is preceded by	Q11660
+Q193076	is preceded by	Q9143
+Q465274	is preceded by	Q660848
+Q165194	is preceded by	Q9143
+Q835922	is preceded by	Q21198
+Q175263	is preceded by	Q190087
+Q187466	is preceded by	Q177929
+Q333464	is preceded by	Q178377
+Q2737866	is preceded by	Q7600677
+Q128570	is preceded by	Q333464
+Q322202	is preceded by	Q21198
+Q163468	is preceded by	Q275603
+Q215206	is preceded by	Q205084
+Q1962320	is preceded by	Q818888
+Q188522	is preceded by	Q638608
+Q751443	is preceded by	Q184754
+Q81414	is preceded by	Q1301371
+Q172491	is preceded by	Q21198
+Q75	is preceded by	Q1068715
+Q431667	is preceded by	Q11538
+Q2651576	is preceded by	Q21198
+Q1071239	is preceded by	Q5862903
+Q141495	is preceded by	Q44337
+Q30642	is preceded by	Q8366
+Q4055684	is preceded by	Q833585
+Q189177	is preceded by	Q1070689
+Q80006	is preceded by	Q11205
+Q132874	is preceded by	Q275603
+Q11216	is preceded by	Q44337
+Q15777	is preceded by	Q179310
+Q8789	is preceded by	Q319400
+Q2321565	is preceded by	Q11216
+Q165436	is preceded by	Q9143
+Q1301371	is preceded by	Q68
+Q174989	is preceded by	Q179310
+Q8513	is preceded by	Q175263
+Q363874	is preceded by	Q395
+Q874709	is preceded by	Q333464
+Q80998	is preceded by	Q631425
+Q264164	is preceded by	Q9143
+Q163310	is preceded by	Q214526
+Q275596	is preceded by	Q877977
+Q8134	is preceded by	Q141495
+Q5862903	is preceded by	Q395
+Q2919848	is preceded by	Q47607
+Q177571	is preceded by	Q8366
+Q187787	is preceded by	Q21198
+Q2539	is preceded by	Q200125
+Q127879	is preceded by	Q751436
+Q1376021	is preceded by	Q9492
+Q621751	is preceded by	Q141495
+Q8811	is preceded by	Q68
+Q755662	is preceded by	Q190087
+Q141495	is preceded by	Q486902
+Q1087987	is preceded by	Q232661
+Q16338	is preceded by	Q68
+Q944	is preceded by	Q9492
+Q232661	is preceded by	Q1427251
+Q2393193	is preceded by	Q205084
+Q121416	is preceded by	Q3968
+Q465274	is preceded by	Q11216
+Q844240	is preceded by	Q21198
+Q173212	is preceded by	Q21198
+Q7135231	is preceded by	Q9143
+Q44455	is preceded by	Q141495
+Q874709	is preceded by	Q7600677
+Q751443	is preceded by	Q214526
+Q205692	is preceded by	Q5862903
+Q44127	is preceded by	Q68
+Q2919848	is preceded by	Q8513
+Q251	is preceded by	Q79872
+Q1936256	is preceded by	Q9135
+Q2878974	is preceded by	Q395
+Q567759	is preceded by	Q232661
+Q11660	is preceded by	Q9143
+Q8366	is preceded by	Q395
+Q374040	is preceded by	Q21198
+Q220184	is preceded by	Q43260
+Q7600677	is preceded by	Q8366
+Q189401	is preceded by	Q179310
+Q202843	is preceded by	Q141495
+Q812540	is preceded by	Q176623
+Q207434	is preceded by	Q23808
+Q751443	is preceded by	Q844718
+Q844240	is preceded by	Q11660
+Q8789	is preceded by	Q212108
+Q2539	is preceded by	Q141495
+Q165436	is preceded by	Q21198
+Q131476	is preceded by	Q117801
+Q194152	is preceded by	Q752532
+Q17995793	is preceded by	Q205084
+Q220849	is preceded by	Q8366
+Q3478658	is preceded by	Q21198
+Q176452	is preceded by	Q8078
+Q188267	is preceded by	Q117801
+Q194152	is preceded by	Q8366
+Q170978	is preceded by	Q11660
+Q580427	is preceded by	Q192588
+Q175869	is preceded by	Q68
+Q622849	is preceded by	Q844718
+Q818888	is preceded by	Q21198
+Q173326	is preceded by	Q21198
+Q163310	is preceded by	Q395
+Q180634	is preceded by	Q205084
+Q835922	is preceded by	Q752532
+Q22725	is preceded by	Q93312
+Q201339	is preceded by	Q121416
+Q272683	is preceded by	Q68
+Q2334061	is preceded by	Q210832
+Q11288	is preceded by	Q9135
+Q638608	is preceded by	Q80006
+Q271977	is preceded by	Q11214
+Q275596	is preceded by	Q1474542
+Q80993	is preceded by	Q844718
+Q2539	is preceded by	Q5862903
+Q180368	is preceded by	Q1301371
+Q170978	is preceded by	Q11476
+Q2919848	is preceded by	Q8513
+Q7600677	is preceded by	Q16338
+Q12483	is preceded by	Q176640
+Q80993	is preceded by	Q8366
+Q9135	is preceded by	Q219320
+Q80006	is preceded by	Q205084
+Q179976	is preceded by	Q8078
+Q500716	is preceded by	Q205084
+Q11660	is preceded by	Q205084
+Q201339	is preceded by	Q8366
+Q47506	is preceded by	Q194152
+Q37437	is preceded by	Q33742
+Q796212	is preceded by	Q37437
+Q30642	is preceded by	Q11660
+Q75	is preceded by	Q1301371
+Q30642	is preceded by	Q131476
+Q275596	is preceded by	Q21198
+Q622849	is preceded by	Q163310
+Q333464	is preceded by	Q12525525
+Q141495	is preceded by	Q176623
+Q127879	is preceded by	Q1058791
+Q1189746	is preceded by	Q9143
+Q11660	is preceded by	Q80006
+Q812534	is preceded by	Q327069
+Q192588	is preceded by	Q840540
+Q163310	is preceded by	Q844718
+Q175869	is preceded by	Q165436
+Q30642	is preceded by	Q2539
+Q555032	is preceded by	Q919509
+Q192161	is preceded by	Q21198
+Q79872	is preceded by	Q42848
+Q180634	is preceded by	Q1047554
+Q170978	is preceded by	Q21198
+Q8366	is preceded by	Q333464
+Q1049183	is preceded by	Q333464
+Q34010	is preceded by	Q1034415
+Q782543	is preceded by	Q21198
+Q47146	is preceded by	Q68
+Q812534	is preceded by	Q9492
+Q178677	is preceded by	Q1414548
+Q8366	is preceded by	Q8366
+Q170978	is preceded by	Q189436
+Q844240	is preceded by	Q141495
+Q176769	is preceded by	Q9492
+Q378859	is preceded by	Q21198
+Q319400	is preceded by	Q121416
+Q2393193	is preceded by	Q163310
+Q877977	is preceded by	Q80006
+Q1418502	is preceded by	Q21198
+Q2878974	is preceded by	Q21198
+Q333464	is preceded by	Q1141518
+Q1401416	is preceded by	Q176953
+Q194152	is preceded by	Q9143
+Q471906	is preceded by	Q8789
+Q466	is preceded by	Q68
+Q1199743	is preceded by	Q8366
+Q82571	is preceded by	Q44337
+Q1401416	is preceded by	Q7600677
+Q812534	is preceded by	Q176623
+Q897511	is preceded by	Q189900
+Q7003418	is preceded by	Q21198
+Q8366	is preceded by	Q21198
+Q282453	is preceded by	Q8366
+Q43260	is preceded by	Q395
+Q271977	is preceded by	Q11216
+Q333464	is preceded by	Q131476
+Q580427	is preceded by	Q21198
+Q163310	is preceded by	Q176452
+Q465274	is preceded by	Q395
+Q202843	is preceded by	Q44337
+Q194152	is preceded by	Q33742
+Q193076	is preceded by	Q264164
+Q187432	is preceded by	Q68
+Q47607	is preceded by	Q80006
+Q79872	is preceded by	Q223335
+Q193076	is preceded by	Q1051282
+Q839721	is preceded by	Q21198
+Q8513	is preceded by	Q848010
+Q477202	is preceded by	Q189900
+Q8513	is preceded by	Q68
+Q583461	is preceded by	Q327069
+Q76592	is preceded by	Q3968
+Q205084	is preceded by	Q8366
+Q216861	is preceded by	Q170058
+Q2068418	is preceded by	Q43260
+Q189436	is preceded by	Q11660
+Q21198	is preceded by	Q131476
+Q42478	is preceded by	Q68
+Q80998	is preceded by	Q3510521
+Q1049878	is preceded by	Q192588
+Q271680	is preceded by	Q80006
+Q751436	is preceded by	Q9135
+Q827246	is preceded by	Q9492
+Q275603	is preceded by	Q80006
+Q2539	is preceded by	Q80006
+Q751443	is preceded by	Q176452
+Q251	is preceded by	Q9143
+Q827335	is preceded by	Q12503
+Q874709	is preceded by	Q68
+Q212542	is preceded by	Q216601
+Q172491	is preceded by	Q9143
+Q193040	is preceded by	Q68
+Q333464	is preceded by	Q21198
+Q857102	is preceded by	Q80006
+Q534112	is preceded by	Q176623
+Q1026626	is preceded by	Q8366
+Q938438	is preceded by	Q9492
+Q844565	is preceded by	Q2914952
+Q205084	is preceded by	Q43260
+Q82571	is preceded by	Q43260
+Q176645	is preceded by	Q327069
+Q1074173	is preceded by	Q11660
+Q1049183	is preceded by	Q80006
+Q1376021	is preceded by	Q938438
+Q1401416	is preceded by	Q478798
+Q844565	is preceded by	Q80006
+Q451553	is preceded by	Q8087
+Q12483	is preceded by	Q395
+Q176645	is preceded by	Q5862903
+Q211496	is preceded by	Q68
+Q868299	is preceded by	Q1034415
+Q8513	is preceded by	Q840540
+Q925667	is preceded by	Q21198
+Q3502995	is preceded by	Q11538
+Q170978	is preceded by	Q101333
+Q219320	is preceded by	Q68
+Q272683	is preceded by	Q173212
+Q141495	is preceded by	Q11205
+Q623950	is preceded by	Q8366
+Q486902	is preceded by	Q12503
+Q1271424	is preceded by	Q33742
+Q28865	is preceded by	Q275596
+Q1034415	is preceded by	Q877977
+Q8789	is preceded by	Q205084
+Q374195	is preceded by	Q141495
+Q210832	is preceded by	Q9492
+Q176737	is preceded by	Q5862903
+Q619942	is preceded by	Q874709
+Q7135231	is preceded by	Q877977
+Q217608	is preceded by	Q395
+Q189401	is preceded by	Q173212
+Q21198	is preceded by	Q8078
+Q2005	is preceded by	Q80006
+Q333464	is preceded by	Q80006
+Q271680	is preceded by	Q868299
+Q175263	is preceded by	Q494756
+Q3403615	is preceded by	Q176623
+Q170519	is preceded by	Q839721
+Q352090	is preceded by	Q5300
+Q55624999	is preceded by	Q378859
+Q1332643	is preceded by	Q660848
+Q380679	is preceded by	Q179976
+Q232661	is preceded by	Q80006
+Q1859284	is preceded by	Q21198
+Q79872	is preceded by	Q80006
+Q193424	is preceded by	Q1301371
+Q15777	is preceded by	Q11205
+Q55624999	is preceded by	Q11660
+Q910404	is preceded by	Q5862903
+Q194152	is preceded by	Q835922
+Q131476	is preceded by	Q121416
+Q8366	is preceded by	Q12503
+Q135707	is preceded by	Q47146
+Q28113351	is preceded by	Q12503
+Q165436	is preceded by	Q272683
+Q9820	is preceded by	Q117879
+Q338047	is preceded by	Q184754
+Q962139	is preceded by	Q80006
+Q1156793	is preceded by	Q8366
+Q580427	is preceded by	Q8513
+Q621751	is preceded by	Q21198
+Q163468	is preceded by	Q9143
+Q30642	is preceded by	Q796212
+Q1988917	is preceded by	Q730920
+Q165436	is preceded by	Q80006
+Q132874	is preceded by	Q21198
+Q8513	is preceded by	Q216601
+Q176452	is preceded by	Q214526
+Q812534	is preceded by	Q42848
+Q2005	is preceded by	Q68
+Q1401416	is preceded by	Q619942
+Q193351	is preceded by	Q42848
+Q275603	is preceded by	Q21198
+Q79798	is preceded by	Q33742
+Q192588	is preceded by	Q333464
+Q176769	is preceded by	Q2539
+Q746242	is preceded by	Q21198
+Q831390	is preceded by	Q208163
+Q989632	is preceded by	Q1301371
+Q1301371	is preceded by	Q363874
+Q2539	is preceded by	Q8366
+Q11660	is preceded by	Q21198
+Q534112	is preceded by	Q5862903
+Q1143367	is preceded by	Q5862903
+Q623276	is preceded by	Q192969
+Q149972	is preceded by	Q395
+Q860654	is preceded by	Q9143
+Q192588	is preceded by	Q755662
+Q874709	is preceded by	Q395
+Q172491	is preceded by	Q8366
+Q21198	is preceded by	Q395
+Q2878974	is preceded by	Q121416
+Q331716	is preceded by	Q175263
+Q220184	is preceded by	Q11216
+Q2269096	is preceded by	Q202843
+Q141495	is preceded by	Q395
+Q8789	is preceded by	Q5862903
+Q845566	is preceded by	Q80006
+Q188522	is preceded by	Q868299
+Q47146	is preceded by	Q80006
+Q1188504	is preceded by	Q5862903
+Q380679	is preceded by	Q395
+Q288510	is preceded by	Q21198
+Q3502995	is preceded by	Q21198
+Q827335	is preceded by	Q21198
+Q184609	is preceded by	Q11660
+Q897511	is preceded by	Q8366
+Q192588	is preceded by	Q8513
+Q11660	is preceded by	Q68
+Q755662	is preceded by	Q216601
+Q170519	is preceded by	Q7600677
+Q232661	is preceded by	Q2393193
+Q174989	is preceded by	Q9135
+Q366872	is preceded by	Q170978
+Q352090	is preceded by	Q113678037
+Q1099110	is preceded by	Q176623
+Q339072	is preceded by	Q8513
+Q762268	is preceded by	Q21198
+Q176769	is preceded by	Q176645
+Q831672	is preceded by	Q131476
+Q47506	is preceded by	Q80006
+Q177929	is preceded by	Q186152
+Q165436	is preceded by	Q68
+Q22725	is preceded by	Q1301371
+Q8789	is preceded by	Q189900
+Q477202	is preceded by	Q141090
+Q451553	is preceded by	Q395
+Q8513	is preceded by	Q21198
+Q176953	is preceded by	Q395
+Q170978	is preceded by	Q80993
+Q15777	is preceded by	Q9143
+Q1936256	is preceded by	Q68
+Q9820	is preceded by	Q80006
+Q210832	is preceded by	Q938438
+Q232661	is preceded by	Q21198
+Q205084	is preceded by	Q121416
+Q212542	is preceded by	Q79872
+Q331716	is preceded by	Q246064
+Q486902	is preceded by	Q395
+Q2914952	is preceded by	Q68
+Q1143367	is preceded by	Q9492
+Q8366	is preceded by	Q179310
+Q175263	is preceded by	Q42848
+Q1143367	is preceded by	Q1116876
+Q210832	is preceded by	Q176623
+Q190524	is preceded by	Q44337
+Q128570	is preceded by	Q8366
+Q845566	is preceded by	Q868299
+Q215206	is preceded by	Q21198
+Q844565	is preceded by	Q8513
+Q11660	is preceded by	Q117801
+Q12483	is preceded by	Q11205
+Q11216	is preceded by	Q190524
+Q189401	is preceded by	Q9135
+Q275596	is preceded by	Q9143
+Q190087	is preceded by	Q9143
+Q8366	is preceded by	Q818888
+Q80993	is preceded by	Q845566
+Q163310	is preceded by	Q21198
+Q9143	is preceded by	Q80006
+Q232661	is preceded by	Q764810
+Q11216	is preceded by	Q27058
+Q638608	is preceded by	Q80993
+Q9135	is preceded by	Q80006
+Q3478658	is preceded by	Q8366
+Q184754	is preceded by	Q494756
+Q555032	is preceded by	Q232661
+Q194152	is preceded by	Q80006
+Q8366	is preceded by	Q8078
+Q80993	is preceded by	Q79872
+Q80993	is preceded by	Q9143
