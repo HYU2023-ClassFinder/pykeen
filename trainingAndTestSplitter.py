@@ -1,4 +1,5 @@
-f = open("tagClaims_v4.txt", "r")
+filename = "tagClaims_soohan_v1"
+f = open(filename+".txt", "r")
 train = []
 valid = []
 test = []
@@ -17,9 +18,9 @@ while True:
 
     cnt = cnt+1
 
-trainText = open("train_v4.txt", "w")
-validText = open("valid_v4.txt", "w")
-testText = open("test_v4.txt", "w")
+trainText = open("src/pykeen/datasets/CS/"+filename+"_train.txt", "w")
+validText = open("src/pykeen/datasets/CS/"+filename+"_valid.txt", "w")
+testText = open("src/pykeen/datasets/CS/"+filename+"_test.txt", "w")
 
 for _ in train:
     trainText.write(_.replace(" ", "\t"))

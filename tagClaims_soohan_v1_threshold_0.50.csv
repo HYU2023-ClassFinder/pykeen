@@ -1,0 +1,5 @@
+idx,row,score,head,tail_label,in_validation,in_testing
+6030,6030,-0.45477813482284546,Q80006_Computer_programming,Q80006_Computer_programming,False,False
+6194,6194,-0.4849664568901062,Q80006_Computer_programming,Q8366_Algorithm,False,True
+6534,6534,-0.48389697074890137,Q2539_Machine_learning,Q9143_Programming_language,False,False
+3039,3039,-0.49145838618278503,Q21198_Computer_science,Q21198_Computer_science,False,False
