@@ -1,0 +1,11 @@
+Q2539	P361_part_of	Q11660
+Q11660	P1889_different_from	Q2539
+Q8366	is_preceded_by	Q8078
+Q8366	is_preceded_by	Q2878974
+Q8366	is_preceded_by	Q224055
+Q80006	is_preceded_by	Q11205
+Q8366	is_preceded_by	Q333464
+Q21198	is_preceded_by	Q8078
+Q8366	is_preceded_by	Q818888
+Q11660	is_preceded_by	Q80006
+Q9143	is_preceded_by	Q8366

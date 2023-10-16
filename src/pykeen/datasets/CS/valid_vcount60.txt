@@ -1,0 +1,5 @@
+Q9143	P366_has_use	Q80006
+Q251	P279_subclass_of	Q9143
+Q11660	P527_has_part(s)	Q2539
+Q11660	is_preceded_by	Q80006
+Q9143	is_preceded_by	Q80006

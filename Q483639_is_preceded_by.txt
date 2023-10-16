@@ -1,0 +1,7 @@
+1514
+tail_id              1514
+score           -8.674362
+tail_label          Q9135
+in_validation        True
+in_testing          False
+Name: 1514, dtype: object

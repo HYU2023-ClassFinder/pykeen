@@ -1,0 +1,7 @@
+169
+tail_id               169
+score           -1.005382
+tail_label       Q1070689
+in_validation       False
+in_testing           True
+Name: 169, dtype: object

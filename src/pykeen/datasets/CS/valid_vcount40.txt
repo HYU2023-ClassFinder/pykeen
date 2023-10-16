@@ -1,0 +1,9 @@
+Q7397	P361_part_of	Q68
+Q2539	P279_subclass_of	Q11660
+Q17146476	P277_programmed_in	Q28865
+Q388	P2579_studied_by	Q21198
+Q8366	is_preceded_by	Q175263
+Q80006	is_preceded_by	Q68
+Q30642	is_preceded_by	Q21198
+Q8366	is_preceded_by	Q8366
+Q11660	is_preceded_by	Q21198

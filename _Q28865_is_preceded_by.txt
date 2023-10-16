@@ -1,0 +1,187 @@
+1340
+tail_id              1340
+score           -6.176446
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -0.905329
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -0.809717
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id               1340
+score            16.724438
+tail_label          Q80006
+in_validation         True
+in_testing           False
+Name: 1340, dtype: object1340
+tail_id               1340
+score            44.312344
+tail_label          Q80006
+in_validation         True
+in_testing           False
+Name: 1340, dtype: object1340
+tail_id              1340
+score            0.259288
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -40.22559
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id             1340
+score           -0.00882
+tail_label        Q80006
+in_validation       True
+in_testing         False
+Name: 1340, dtype: object1340
+tail_id              1340
+score            3.833241
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id               1340
+score            45.420673
+tail_label          Q80006
+in_validation         True
+in_testing           False
+Name: 1340, dtype: object1340
+tail_id              1340
+score            0.513644
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id               1340
+score           -57.242645
+tail_label          Q80006
+in_validation         True
+in_testing           False
+Name: 1340, dtype: object1340
+tail_id                 1340
+score            253125520.0
+tail_label            Q80006
+in_validation           True
+in_testing             False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -1.725153
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -6.237985
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -1.172974
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -0.496189
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score            1.403798
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score            0.606377
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id                1340
+score            278.104889
+tail_label           Q80006
+in_validation          True
+in_testing            False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -0.466668
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score            9.397661
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -6.711802
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -4.536193
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -1.127385
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id               1340
+score           -10.426432
+tail_label          Q80006
+in_validation         True
+in_testing           False
+Name: 1340, dtype: object1340
+tail_id              1340
+score            3.176586
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -0.264485
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -2.338825
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score            0.031972
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object1340
+tail_id              1340
+score           -8.101524
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 1340, dtype: object

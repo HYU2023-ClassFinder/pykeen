@@ -1,0 +1,11 @@
+Q7397	P2579_studied_by	Q80993
+Q2539	P361_part_of	Q395
+Q17146476	P31_instance_of	Q7397
+Q80006	P361_part_of	Q21198
+Q11660	P527_has_part(s)	Q2539
+Q8366	is_preceded_by	Q21198
+Q175263	is_preceded_by	Q21198
+Q30642	is_preceded_by	Q21198
+Q30642	is_preceded_by	Q11660
+Q21198	is_preceded_by	Q131476
+Q2539	is_preceded_by	Q8366

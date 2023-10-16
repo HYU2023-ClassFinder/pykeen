@@ -1,0 +1,13 @@
+145
+tail_id               145
+score           -8.431734
+tail_label          Q8078
+in_validation       False
+in_testing           True
+Name: 145, dtype: object110
+tail_id               110
+score           -8.947057
+tail_label           Q395
+in_validation        True
+in_testing           True
+Name: 110, dtype: object

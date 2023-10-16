@@ -1,0 +1,281 @@
+120
+head_id                23
+relation_id             7
+tail_id                 1
+score           -0.262333
+in_validation       False
+in_testing           True
+Name: 120, dtype: object143
+head_id                23
+relation_id             7
+tail_id                 4
+score           -0.266794
+in_validation        True
+in_testing          False
+Name: 143, dtype: object161
+head_id                24
+relation_id            14
+tail_id                34
+score           -0.269179
+in_validation        True
+in_testing          False
+Name: 161, dtype: object414
+head_id                21
+relation_id            14
+tail_id                34
+score           -0.281199
+in_validation       False
+in_testing           True
+Name: 414, dtype: object600
+head_id                 0
+relation_id            14
+tail_id                34
+score           -0.285497
+in_validation       False
+in_testing           True
+Name: 600, dtype: object603
+head_id                 5
+relation_id             7
+tail_id                 1
+score           -0.285555
+in_validation        True
+in_testing          False
+Name: 603, dtype: object698
+head_id                33
+relation_id             7
+tail_id                 1
+score           -0.286921
+in_validation        True
+in_testing          False
+Name: 698, dtype: object741
+head_id                 3
+relation_id             8
+tail_id                17
+score           -0.287516
+in_validation        True
+in_testing          False
+Name: 741, dtype: object870
+head_id                44
+relation_id            16
+tail_id                30
+score           -0.289438
+in_validation       False
+in_testing           True
+Name: 870, dtype: object1102
+head_id                45
+relation_id            16
+tail_id                36
+score           -0.291702
+in_validation       False
+in_testing           True
+Name: 1102, dtype: object1105
+head_id                23
+relation_id            16
+tail_id                41
+score           -0.291727
+in_validation       False
+in_testing           True
+Name: 1105, dtype: object1196
+head_id                21
+relation_id            11
+tail_id                40
+score           -0.292684
+in_validation        True
+in_testing          False
+Name: 1196, dtype: object1483
+head_id                 5
+relation_id             7
+tail_id                19
+score           -0.294911
+in_validation       False
+in_testing           True
+Name: 1483, dtype: object1499
+head_id                33
+relation_id             7
+tail_id                19
+score           -0.295007
+in_validation       False
+in_testing           True
+Name: 1499, dtype: object1887
+head_id                42
+relation_id            16
+tail_id                17
+score           -0.297443
+in_validation       False
+in_testing           True
+Name: 1887, dtype: object1997
+head_id                 6
+relation_id            16
+tail_id                36
+score           -0.298043
+in_validation        True
+in_testing          False
+Name: 1997, dtype: object2585
+head_id                28
+relation_id             3
+tail_id                17
+score           -0.300912
+in_validation       False
+in_testing           True
+Name: 2585, dtype: object2785
+head_id                43
+relation_id             8
+tail_id                29
+score           -0.301795
+in_validation        True
+in_testing          False
+Name: 2785, dtype: object3761
+head_id                44
+relation_id            16
+tail_id                10
+score           -0.304962
+in_validation       False
+in_testing           True
+Name: 3761, dtype: object4245
+head_id                38
+relation_id            16
+tail_id                30
+score           -0.306381
+in_validation        True
+in_testing          False
+Name: 4245, dtype: object5184
+head_id               42
+relation_id           16
+tail_id               36
+score           -0.30861
+in_validation       True
+in_testing         False
+Name: 5184, dtype: object6694
+head_id                 0
+relation_id             6
+tail_id                28
+score           -0.311621
+in_validation        True
+in_testing          False
+Name: 6694, dtype: object7626
+head_id               18
+relation_id            9
+tail_id               23
+score           -0.31331
+in_validation      False
+in_testing          True
+Name: 7626, dtype: object12331
+head_id                 3
+relation_id            16
+tail_id                17
+score           -0.320383
+in_validation        True
+in_testing          False
+Name: 12331, dtype: object12640
+head_id                 3
+relation_id            16
+tail_id                43
+score           -0.320783
+in_validation        True
+in_testing          False
+Name: 12640, dtype: object22714
+head_id                41
+relation_id            16
+tail_id                10
+score           -0.333085
+in_validation       False
+in_testing           True
+Name: 22714, dtype: object26034
+head_id                37
+relation_id             8
+tail_id                36
+score           -0.337414
+in_validation        True
+in_testing          False
+Name: 26034, dtype: object26660
+head_id                 3
+relation_id            16
+tail_id                 7
+score           -0.338288
+in_validation       False
+in_testing           True
+Name: 26660, dtype: object26913
+head_id                28
+relation_id             7
+tail_id                45
+score           -0.338669
+in_validation        True
+in_testing          False
+Name: 26913, dtype: object26994
+head_id                 3
+relation_id            16
+tail_id                15
+score           -0.338794
+in_validation       False
+in_testing           True
+Name: 26994, dtype: object27034
+head_id                 5
+relation_id            16
+tail_id                41
+score           -0.338843
+in_validation       False
+in_testing           True
+Name: 27034, dtype: object27309
+head_id                41
+relation_id            16
+tail_id                15
+score           -0.339244
+in_validation        True
+in_testing          False
+Name: 27309, dtype: object27806
+head_id                 3
+relation_id             5
+tail_id                17
+score           -0.339991
+in_validation       False
+in_testing           True
+Name: 27806, dtype: object29711
+head_id                17
+relation_id            16
+tail_id                29
+score           -0.342954
+in_validation       False
+in_testing           True
+Name: 29711, dtype: object30078
+head_id                42
+relation_id             5
+tail_id                17
+score           -0.343561
+in_validation       False
+in_testing           True
+Name: 30078, dtype: object30162
+head_id                46
+relation_id            16
+tail_id                36
+score           -0.343703
+in_validation       False
+in_testing           True
+Name: 30162, dtype: object33502
+head_id                 7
+relation_id            16
+tail_id                29
+score           -0.350851
+in_validation        True
+in_testing          False
+Name: 33502, dtype: object33672
+head_id                37
+relation_id             3
+tail_id                42
+score           -0.351377
+in_validation       False
+in_testing           True
+Name: 33672, dtype: object34714
+head_id                10
+relation_id            16
+tail_id                17
+score           -0.354811
+in_validation        True
+in_testing          False
+Name: 34714, dtype: object35796
+head_id                46
+relation_id            16
+tail_id                41
+score           -0.359159
+in_validation        True
+in_testing          False
+Name: 35796, dtype: object

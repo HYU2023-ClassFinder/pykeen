@@ -1,0 +1,11 @@
+Q7397	P361_part_of	Q68
+Q2539	P361_part_of	Q11660
+Q251	P279_subclass_of	Q9143
+Q21447895	P306_operating_system	Q388
+Q11660	P279_subclass_of	Q21198
+Q9143	is_preceded_by	Q175263
+Q2539	is_preceded_by	Q11660
+Q11660	is_preceded_by	Q175263
+Q80993	is_preceded_by	Q8366
+Q8513	is_preceded_by	Q68
+Q8513	is_preceded_by	Q21198

@@ -1,0 +1,6 @@
+{
+  "optuna": {
+    "n_trials": 1000
+  },
+  "pipeline": {
+    "dataset": 

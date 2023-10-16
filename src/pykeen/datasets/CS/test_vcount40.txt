@@ -1,0 +1,9 @@
+Q9143	P366_has_use	Q80006
+Q2539	P1889_different_from	Q11660
+Q17146476	P277_programmed_in	Q206904
+Q206904	P31_instance_of	Q9143
+Q2539	is_preceded_by	Q131476
+Q2539	is_preceded_by	Q11660
+Q7397	is_preceded_by	Q68
+Q11660	is_preceded_by	Q131476
+Q21198	is_preceded_by	Q395

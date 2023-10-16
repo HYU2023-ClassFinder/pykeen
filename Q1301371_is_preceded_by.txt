@@ -1,0 +1,19 @@
+122
+tail_id               122
+score           -8.412644
+tail_label        Q494756
+in_validation        True
+in_testing          False
+Name: 122, dtype: object167
+tail_id               167
+score           -8.663098
+tail_label          Q9135
+in_validation       False
+in_testing           True
+Name: 167, dtype: object112
+tail_id                112
+score           -10.334738
+tail_label          Q42848
+in_validation        False
+in_testing            True
+Name: 112, dtype: object

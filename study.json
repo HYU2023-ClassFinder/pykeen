@@ -1,0 +1,13 @@
+{
+  "evaluator": "rankbased",
+  "filter_validation_when_testing": true,
+  "loss": "crossentropy",
+  "lr_scheduler": "exponential",
+  "metric": "both.realistic.inverse_harmonic_mean_rank",
+  "model": "transe",
+  "negative_sampler": "basic",
+  "optimizer": "sgd",
+  "pykeen_git_hash": "UNHASHED",
+  "pykeen_version": "1.10.1",
+  "training_loop": "slcwa"
+}

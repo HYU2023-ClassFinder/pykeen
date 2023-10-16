@@ -1,4 +1,6 @@
-f = open("tagClaims_v4.txt", "r")
+num = "zscoreUpper40"
+
+f = open("tagClaims_v" + str(num) + ".txt", "r")
 train = []
 valid = []
 test = []
@@ -17,9 +19,9 @@ while True:
 
     cnt = cnt+1
 
-trainText = open("train_v4.txt", "w")
-validText = open("valid_v4.txt", "w")
-testText = open("test_v4.txt", "w")
+trainText = open("train_v" + str(num) + ".txt", "w")
+validText = open("valid_v" + str(num) + ".txt", "w")
+testText = open("test_v" + str(num) + ".txt", "w")
 
 for _ in train:
     trainText.write(_.replace(" ", "\t"))

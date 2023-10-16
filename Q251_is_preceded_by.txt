@@ -1,0 +1,7 @@
+144
+tail_id               144
+score           -6.602636
+tail_label         Q80006
+in_validation        True
+in_testing          False
+Name: 144, dtype: object

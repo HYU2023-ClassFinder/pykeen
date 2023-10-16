@@ -1,0 +1,11 @@
+Q9143	P366_has_use	Q80006
+Q11660	P527_has_part(s)	Q2539
+Q80006	is_preceded_by	Q21198
+Q9143	is_preceded_by	Q68
+Q2539	is_preceded_by	Q68
+Q80006	is_preceded_by	Q179310
+Q11660	is_preceded_by	Q80006
+Q2539	is_preceded_by	Q12483
+Q11660	is_preceded_by	Q117801
+Q2539	is_preceded_by	Q21198
+Q9143	is_preceded_by	Q80006
