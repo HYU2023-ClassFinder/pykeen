@@ -3,7 +3,7 @@ from pykeen.evaluation import ClassificationEvaluator
 from pykeen.evaluation import RankBasedEvaluator
 from pykeen.models import *
 
-num = "ratio20"
+num = "zscoreUpper40"
 
 from pykeen.pipeline import pipeline
 from pykeen.datasets import get_dataset
@@ -23,7 +23,7 @@ model = TransE(
 
 # Train your model (code is omitted for brevity)
 # result = pipeline(dataset=myDataset, model=model, lr_scheduler_kwargs=dict(gamma=0.0916875853238321), training_kwargs=dict(num_epochs=15, batch_size=128))
-result = pipeline(dataset=myDataset, model=model, training_kwargs=dict(num_epochs=220, batch_size=32))
+result = pipeline(dataset=myDataset, model=model, training_kwargs=dict(num_epochs=80, batch_size=16))
 
 # Define evaluator
 evaluator = RankBasedEvaluator()

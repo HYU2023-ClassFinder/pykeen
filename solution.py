@@ -77,6 +77,10 @@
 #     print(pred_annotated.df)
 '''
 
+# solution.py에서는 학습을 시키고 prediction 결과를 csv 파일로 저장합니다.
+# 100번의 예측을 반복해, 그 평균 점수와 100회의 예측 중 몇 번 등장했는지를 기록합니다.
+# 가능한 모든 head에 대해서 반복합니다.
+
 from collections import Counter
 import itertools
 
@@ -90,6 +94,7 @@ if __name__ == "__main__":
     from pykeen.datasets import PathDataset
     from pykeen.predict import predict_target
     
+    # zscoreUpper40 dataset을 사용합니다.
     num = "zscoreUpper40"
     myDataset = PathDataset(
         training_path="src/pykeen/datasets/CS/train_v" + str(num) + ".txt",
@@ -98,8 +103,11 @@ if __name__ == "__main__":
         eager=True,
         create_inverse_triples = False)
 
+    # head는 저희가 수집한 강의 데이터셋의 태그 중, head로 쓰일 수 있는 tag를 모은 것입니다.
     head = ['Q3050461', 'Q1936256', 'Q11205', 'Q28865', 'Q23808', 'Q848010', 'Q132364', 'Q1427251', 'Q9143', 'Q1635410', 'Q208163', 'Q11476', 'Q845566', 'Q2493', 'Q1301371', 'Q176645', 'Q3510521', 'Q101333', 'Q1051282', 'Q2374463', 'Q857102', 'Q163310', 'Q116777014', 'Q2321565', 'Q1070689', 'Q373045', 'Q1152135', 'Q833585', 'Q395', 'Q179976', 'Q189436', 'Q478798', 'Q796212', 'Q208042', 'Q205084', 'Q212108', 'Q5300', 'Q37437', 'Q80006', 'Q131476', 'Q211496', 'Q13649246', 'Q1363085', 'Q638608', 'Q2878974', 'Q15777', 'Q21198', 'Q8078', 'Q43260', 'Q1026367', 'Q844240', 'Q1034415', 'Q1141518', 'Q219320', 'Q7397', 'Q483130', 'Q232661', 'Q319400', 'Q272683', 'Q50423863', 'Q827335', 'Q9135', 'Q12483', 'Q117879', 'Q121416', 'Q729271', 'Q7600677', 'Q79798', 'Q3968', 'Q938438', 'Q752532', 'Q378859', 'Q85810444', 'Q839721', 'Q200125', 'Q192776', 'Q583461', 'Q178354', 'Q4479242', 'Q1027879', 'Q9492']   
     # _relation = ["P361_part_of", "P279_subclass_of", "P2579_studied_by", "P366_has_use", "P2283_uses"]
+    
+    # relation은 is_preceded_by로, head와 저희가 예측하려는 tail간의 relationship을 의미합니다.
     relation = "is_preceded_by"
     '''
     # _model = ["AutoSF",
@@ -141,6 +149,7 @@ if __name__ == "__main__":
     # "UM",]
     '''
 
+    # 모델은 최대한 단순한 모델인 TransE를 사용합니다.
     model = ["TransE"]
     TRY = 100
 
@@ -199,6 +208,7 @@ if __name__ == "__main__":
                     prePredictedTail.append((row['tail_label'], row['score']))
 
             temp = []
+            # predictedTail의 첫 번째 원소가 tail entity, 두 번째 원소가 평균 score, 세 번째 원소가 등장 횟수입니다.
             predictedTail = []
             for p in prePredictedTail:
                 if(p[0] not in list(itertools.chain(*predictedTail))):
